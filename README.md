@@ -257,7 +257,6 @@ python scripts/privacy_scan.py
 
 See `docs/PUBLIC_RELEASE_CHECKLIST.md`.
 
-## License
 
 ## License and reuse
 
