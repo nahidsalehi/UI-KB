@@ -259,4 +259,12 @@ See `docs/PUBLIC_RELEASE_CHECKLIST.md`.
 
 ## License
 
-A code/data license is intentionally **not chosen on behalf of the authors**. Before public release, replace `LICENSE` with the institution-approved license. A common approach is an MIT or Apache-2.0 license for code and a separately documented license/redistribution basis for the corpus and annotations.
+## License and reuse
+
+The source code in this repository is released under the MIT License.
+
+The institutional corpus and benchmark annotations are provided for research
+and reproducibility purposes. The MIT License applies to the software code
+only and does not grant additional rights over the original institutional
+source materials. Reuse and redistribution of corpus content are subject to
+the rights applicable to the original sources.
