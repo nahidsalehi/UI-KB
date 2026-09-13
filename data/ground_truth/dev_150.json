@@ -1,0 +1,1437 @@
+[
+  {
+    "id": 1,
+    "question": "هدف از تدوین آیین‌نامه آموزشی دانشگاه چیست؟",
+    "relevant_answer": [
+      "ac_article_1"
+    ],
+    "domain": "academic",
+    "question_type": "single"
+  },
+  {
+    "id": 2,
+    "question": "شرط ورود به دانشگاه چیست؟",
+    "relevant_answer": [
+      "ac_article_2"
+    ],
+    "domain": "academic",
+    "question_type": "single"
+  },
+  {
+    "id": 3,
+    "question": "اگر در کلاس‌های یک درس غیبت کنم، از چه میزان غیبت به بعد نمره صفر ثبت می‌شود و اگر غیبت موجه تشخیص داده شود چه اتفاقی می‌افتد؟",
+    "relevant_answer": [
+      "ac_article_7"
+    ],
+    "domain": "academic",
+    "question_type": "single"
+  },
+  {
+    "id": 4,
+    "question": "اگر دانشجوی دوره کاردانی در یک نیمسال معدل کمتر از ۱۲ بگیرد، ترم بعد چه محدودیتی برای انتخاب واحد دارد و چند نیمسال مشروطی می‌تواند به محرومیت از ادامه تحصیل منجر شود؟",
+    "relevant_answer": [
+      "ac_article_16"
+    ],
+    "domain": "academic",
+    "question_type": "single"
+  },
+  {
+    "id": 5,
+    "question": "حداقل واحد درسی که دانشجوی کارشناسی در هر نیمسال باید اخذ کند چند واحد است؟",
+    "relevant_answer": [
+      "ac_article_17",
+      "ac_article_17_1"
+    ],
+    "domain": "academic",
+    "question_type": "multi"
+  },
+  {
+    "id": 6,
+    "question": "حذف درس با موافقت دانشگاه در طول ترم تحت چه شرایطی مجاز است؟",
+    "relevant_answer": [
+      "ac_article_18"
+    ],
+    "domain": "academic",
+    "question_type": "single"
+  },
+  {
+    "id": 7,
+    "question": "دانشجوی کارشناسی چند نیمسال مرخصی تحصیلی می‌تواند بگیرد؟",
+    "relevant_answer": [
+      "ac_article_19"
+    ],
+    "domain": "academic",
+    "question_type": "single"
+  },
+  {
+    "id": 8,
+    "question": "تغییر رشته دانشجوی کارشناسی چند بار مجاز است و چه شرایطی دارد؟",
+    "relevant_answer": [
+      "ac_article_20"
+    ],
+    "domain": "academic",
+    "question_type": "single"
+  },
+  {
+    "id": 9,
+    "question": "آیا انتقال دانشجو از دانشگاه غیردولتی به دولتی مجاز است؟",
+    "relevant_answer": [
+      "ac_article_21"
+    ],
+    "domain": "academic",
+    "question_type": "single"
+  },
+  {
+    "id": 10,
+    "question": "تاریخ دانش‌آموختگی دانشجو چه زمانی ثبت می‌شود؟",
+    "relevant_answer": [
+      "ac_article_25"
+    ],
+    "domain": "academic",
+    "question_type": "single"
+  },
+  {
+    "id": 11,
+    "question": "مدت مجاز تحصیل در دوره کارشناسی ارشد چند نیمسال است؟",
+    "relevant_answer": [
+      "ac_article_26"
+    ],
+    "domain": "academic",
+    "question_type": "single"
+  },
+  {
+    "id": 12,
+    "question": "دانشجوی کارشناسی ارشد چند نیمسال می‌تواند مرخصی تحصیلی بگیرد؟",
+    "relevant_answer": [
+      "ac_article_27"
+    ],
+    "domain": "academic",
+    "question_type": "single"
+  },
+  {
+    "id": 13,
+    "question": "آیا تحصیل همزمان دانشجوی کارشناسی ارشد در رشته دیگری مجاز است؟",
+    "relevant_answer": [
+      "ac_article_28"
+    ],
+    "domain": "academic",
+    "question_type": "single"
+  },
+  {
+    "id": 14,
+    "question": "حداقل نمره قبولی در دروس کارشناسی ارشد چقدر است؟",
+    "relevant_answer": [
+      "ac_article_29"
+    ],
+    "domain": "academic",
+    "question_type": "single"
+  },
+  {
+    "id": 15,
+    "question": "حداقل و حداکثر واحد درسی قابل اخذ در هر نیمسال کارشناسی ارشد چقدر است؟",
+    "relevant_answer": [
+      "ac_article_30"
+    ],
+    "domain": "academic",
+    "question_type": "single"
+  },
+  {
+    "id": 16,
+    "question": "حذف اضطراری درس در کارشناسی ارشد تحت چه شرایطی مجاز است؟",
+    "relevant_answer": [
+      "ac_article_31"
+    ],
+    "domain": "academic",
+    "question_type": "single"
+  },
+  {
+    "id": 17,
+    "question": "مهلت تصویب پروپوزال پایان‌نامه کارشناسی ارشد تا چه زمانی است؟",
+    "relevant_answer": [
+      "ac_article_32"
+    ],
+    "domain": "academic",
+    "question_type": "single"
+  },
+  {
+    "id": 18,
+    "question": "آیا تغییر رشته یا انتقال دانشجوی کارشناسی ارشد به رشته دیگر مجاز است؟",
+    "relevant_answer": [
+      "ac_article_34"
+    ],
+    "domain": "academic",
+    "question_type": "single"
+  },
+  {
+    "id": 19,
+    "question": "نمره پایان‌نامه کارشناسی ارشد در میانگین کل دانشجو محاسبه می‌شود؟",
+    "relevant_answer": [
+      "ac_article_36"
+    ],
+    "domain": "academic",
+    "question_type": "single"
+  },
+  {
+    "id": 20,
+    "question": "مدت مجاز تحصیل در دوره دکتری تخصصی چند نیمسال است؟",
+    "relevant_answer": [
+      "ac_article_39"
+    ],
+    "domain": "academic",
+    "question_type": "single"
+  },
+  {
+    "id": 21,
+    "question": "حداقل نمره قبولی در دروس دکتری تخصصی چقدر است؟",
+    "relevant_answer": [
+      "ac_article_40"
+    ],
+    "domain": "academic",
+    "question_type": "single"
+  },
+  {
+    "id": 22,
+    "question": "برای ورود به مرحله ارزیابی جامع دکتری چه معدل کلی لازم است و حداقل نمره قبولی در خود ارزیابی جامع چقدر است؟",
+    "relevant_answer": [
+      "ac_article_41"
+    ],
+    "domain": "academic",
+    "question_type": "single"
+  },
+  {
+    "id": 23,
+    "question": "دانشجوی دکتری مجاز است علاوه بر استاد راهنما، استاد مشاور داشته باشد؟",
+    "relevant_answer": [
+      "ac_article_45"
+    ],
+    "domain": "academic",
+    "question_type": "single"
+  },
+  {
+    "id": 24,
+    "question": "نمره رساله دکتری در میانگین کل محاسبه می‌شود و ارزیابی آن چگونه است؟",
+    "relevant_answer": [
+      "ac_article_48"
+    ],
+    "domain": "academic",
+    "question_type": "single"
+  },
+  {
+    "id": 25,
+    "question": "در دوره کاردانی یا کارشناسی، حداکثر چند واحد می‌توان در تابستان گرفت و در چه شرایطی سقف واحد ترم عادی می‌تواند افزایش یابد؟",
+    "relevant_answer": [
+      "ac_article_17"
+    ],
+    "domain": "academic",
+    "question_type": "single"
+  },
+  {
+    "id": 26,
+    "question": "مشروطی در کارشناسی به چه معناست و چه تبعاتی دارد؟",
+    "relevant_answer": [
+      "ac_article_11",
+      "ac_article_16"
+    ],
+    "domain": "academic",
+    "question_type": "multi"
+  },
+  {
+    "id": 27,
+    "question": "انصراف از تحصیل چه شرایطی دارد و آیا دانشجوی انصراف‌داده‌شده می‌تواند دوباره ثبت‌نام کند؟",
+    "relevant_answer": [
+      "ac_article_10",
+      "ac_article_23"
+    ],
+    "domain": "academic",
+    "question_type": "multi"
+  },
+  {
+    "id": 28,
+    "question": "برای فارغ‌التحصیلی کارشناسی ارشد چه شرایطی لازم است و اگر بعد از گذراندن همه واحدها معدل کل کمتر از ۱۴ باشد چه فرصتی برای جبران وجود دارد؟",
+    "relevant_answer": [
+      "ac_article_37",
+      "ac_article_37_1"
+    ],
+    "domain": "academic",
+    "question_type": "multi"
+  },
+  {
+    "id": 29,
+    "question": "شرایط ارزیابی جامع دکتری و تعداد دفعات مجاز شرکت در آن چیست؟",
+    "relevant_answer": [
+      "ac_article_41",
+      "ac_article_41_1"
+    ],
+    "domain": "academic",
+    "question_type": "multi"
+  },
+  {
+    "id": 30,
+    "question": "مرجع رسیدگی به تخلفات انضباطی دانشجویان کدام شورا است؟",
+    "relevant_answer": [
+      "disc_article_57"
+    ],
+    "domain": "discipline",
+    "question_type": "single"
+  },
+  {
+    "id": 31,
+    "question": "ترکیب اعضای شورای بدوی انضباطی دانشگاه چگونه است؟",
+    "relevant_answer": [
+      "disc_article_2"
+    ],
+    "domain": "discipline",
+    "question_type": "single"
+  },
+  {
+    "id": 32,
+    "question": "شرایط عضو دانشجویی در شوراهای انضباطی چیست؟",
+    "relevant_answer": [
+      "disc_article_8"
+    ],
+    "domain": "discipline",
+    "question_type": "single"
+  },
+  {
+    "id": 33,
+    "question": "تقلب در آزمون‌ها یا فعالیت‌های آموزشی چه مجازاتی دارد؟",
+    "relevant_answer": [
+      "disc_article_33",
+      "disc_article_33_1"
+    ],
+    "domain": "discipline",
+    "question_type": "multi"
+  },
+  {
+    "id": 34,
+    "question": "سرقت علمی در فعالیت‌های پژوهشی چه تنبیهی در پی دارد؟",
+    "relevant_answer": [
+      "disc_article_34"
+    ],
+    "domain": "discipline",
+    "question_type": "single"
+  },
+  {
+    "id": 35,
+    "question": "ضرب و جرح در محیط دانشگاه چه تنبیهی دارد؟",
+    "relevant_answer": [
+      "disc_article_26"
+    ],
+    "domain": "discipline",
+    "question_type": "single"
+  },
+  {
+    "id": 36,
+    "question": "عدم رعایت پوشش اسلامی در محیط دانشگاه چه تبعاتی دارد؟",
+    "relevant_answer": [
+      "disc_article_51"
+    ],
+    "domain": "discipline",
+    "question_type": "single"
+  },
+  {
+    "id": 37,
+    "question": "استعمال مواد مخدر یا روان‌گردان در دانشگاه چه تنبیهی به دنبال دارد؟",
+    "relevant_answer": [
+      "disc_article_43"
+    ],
+    "domain": "discipline",
+    "question_type": "single"
+  },
+  {
+    "id": 38,
+    "question": "جعل سند، مهر یا امضا در دانشگاه چه مجازاتی دارد؟",
+    "relevant_answer": [
+      "disc_article_27"
+    ],
+    "domain": "discipline",
+    "question_type": "single"
+  },
+  {
+    "id": 39,
+    "question": "وظایف شورای تجدیدنظر انضباطی دانشگاه چیست؟",
+    "relevant_answer": [
+      "disc_article_86"
+    ],
+    "domain": "discipline",
+    "question_type": "single"
+  },
+  {
+    "id": 40,
+    "question": "برای اعتراض به حکم بدوی انضباطی چند روز فرصت دارم و درخواست تجدیدنظر را چگونه باید ثبت کنم؟",
+    "relevant_answer": [
+      "disc_article_87",
+      "disc_article_88"
+    ],
+    "domain": "discipline",
+    "question_type": "multi"
+  },
+  {
+    "id": 41,
+    "question": "اصل برائت و اصل بی‌طرفی در رسیدگی انضباطی چه معنایی دارند؟",
+    "relevant_answer": [
+      "disc_principle_1_7"
+    ],
+    "domain": "discipline",
+    "question_type": "single"
+  },
+  {
+    "id": 42,
+    "question": "حقوق دانشجو در جریان رسیدگی انضباطی از قبیل حق دفاع، حق استماع و اصل محرمانگی چیست؟",
+    "relevant_answer": [
+      "disc_principle_1_7",
+      "disc_principle_8_14"
+    ],
+    "domain": "discipline",
+    "question_type": "multi"
+  },
+  {
+    "id": 43,
+    "question": "فرآیند دعوت دانشجو به جلسه رسیدگی انضباطی و محتوای دعوت‌نامه چگونه است؟",
+    "relevant_answer": [
+      "disc_article_66",
+      "disc_article_67"
+    ],
+    "domain": "discipline",
+    "question_type": "multi"
+  },
+  {
+    "id": 44,
+    "question": "تفهیم تخلف به دانشجو چگونه انجام می‌شود و دانشجو چه حقوقی در این مرحله دارد؟",
+    "relevant_answer": [
+      "disc_article_70",
+      "disc_article_71",
+      "disc_article_72",
+      "disc_article_73"
+    ],
+    "domain": "discipline",
+    "question_type": "multi"
+  },
+  {
+    "id": 45,
+    "question": "احکام صادره از شورای انضباطی در چه مواردی قطعی محسوب می‌شوند و اجرای آن‌ها چگونه است؟",
+    "relevant_answer": [
+      "disc_article_102",
+      "disc_article_99",
+      "disc_article_104"
+    ],
+    "domain": "discipline",
+    "question_type": "multi"
+  },
+  {
+    "id": 46,
+    "question": "صدور احکام ترکیبی و تعدد تخلف در شیوه‌نامه انضباطی چگونه تعریف و اعمال می‌شود؟",
+    "relevant_answer": [
+      "disc_article_13",
+      "disc_article_16",
+      "disc_article_17"
+    ],
+    "domain": "discipline",
+    "question_type": "multi"
+  },
+  {
+    "id": 47,
+    "question": "شرایط پذیرش شکایت علیه دانشجو در شوراهای انضباطی چیست؟",
+    "relevant_answer": [
+      "disc_article_59",
+      "disc_article_60",
+      "disc_article_63"
+    ],
+    "domain": "discipline",
+    "question_type": "multi"
+  },
+  {
+    "id": 48,
+    "question": "شرایط تشکیل جلسه شورای بدوی و نحوه ارجاع پرونده به آن چگونه است؟",
+    "relevant_answer": [
+      "disc_article_74",
+      "disc_article_75",
+      "disc_article_65",
+      "disc_article_65_1"
+    ],
+    "domain": "discipline",
+    "question_type": "multi"
+  },
+  {
+    "id": 49,
+    "question": "هدف از تدوین شیوه‌نامه میهمانی و انتقال دانشجویان به دانشگاه اصفهان چیست؟",
+    "relevant_answer": [
+      "enteghali_article_1"
+    ],
+    "domain": "enteghali",
+    "question_type": "single"
+  },
+  {
+    "id": 50,
+    "question": "تفاوت دانشجوی میهمان، دانشجوی میهمان دائم و دانشجوی انتقالی چیست؟",
+    "relevant_answer": [
+      "enteghali_def_1_5"
+    ],
+    "domain": "enteghali",
+    "question_type": "single"
+  },
+  {
+    "id": 51,
+    "question": "اگر بخواهم در دانشگاه اصفهان به‌صورت میهمان بشوم، به‌عنوان میهمان تک‌درس حداکثر چند واحد می‌توانم اخذ کنم؟",
+    "relevant_answer": [
+      "enteghali_def_6_8"
+    ],
+    "domain": "enteghali",
+    "question_type": "single"
+  },
+  {
+    "id": 52,
+    "question": "حداکثر ظرفیت پذیرش دانشجوی میهمان و انتقالی برای هر رشته در دانشگاه اصفهان چه درصدی است؟",
+    "relevant_answer": [
+      "enteghali_article_3_a"
+    ],
+    "domain": "enteghali",
+    "question_type": "single"
+  },
+  {
+    "id": 53,
+    "question": "اگر به‌عنوان دانشجوی میهمان در دانشگاه اصفهان پذیرفته شوم، پذیرش جدید در چه نیمسالی انجام می‌شود و برای شروع هر نیمسال چه پرداخت‌هایی باید انجام دهم؟",
+    "relevant_answer": [
+      "enteghali_article_3_b"
+    ],
+    "domain": "enteghali",
+    "question_type": "single"
+  },
+  {
+    "id": 54,
+    "question": "برای درخواست میهمانی، حداقل معدل لازم در رشته‌های فنی‌مهندسی و علوم پایه و در سایر رشته‌ها چقدر است و چه شرایط شخصی می‌تواند مبنای بررسی درخواست باشد؟",
+    "relevant_answer": [
+      "enteghali_article_4_a"
+    ],
+    "domain": "enteghali",
+    "question_type": "single"
+  },
+  {
+    "id": 55,
+    "question": "اگر خودم یا در بعضی شرایط والدینم بعد از شروع تحصیل دچار بیماری خاص یا معلولیت مؤثر شویم، چه شرایطی برای درخواست میهمانی یا انتقال به دانشگاه اصفهان لازم است؟",
+    "relevant_answer": [
+      "enteghali_article_4_b"
+    ],
+    "domain": "enteghali",
+    "question_type": "single"
+  },
+  {
+    "id": 56,
+    "question": "شرایط انتقال دائم دانشجو پس از دوره میهمانی به دانشگاه اصفهان چیست و چه تعداد واحد باید در این دانشگاه گذرانده باشد؟",
+    "relevant_answer": [
+      "enteghali_article_5"
+    ],
+    "domain": "enteghali",
+    "question_type": "single"
+  },
+  {
+    "id": 57,
+    "question": "تغییر رشته دانشجوی کارشناسی پیوسته در دانشگاه اصفهان چه شرایطی دارد و این عمل چند بار در هر دوره تحصیلی مجاز است؟",
+    "relevant_answer": [
+      "enteghali_article_7"
+    ],
+    "domain": "enteghali",
+    "question_type": "single"
+  },
+  {
+    "id": 58,
+    "question": "چه مرجعی مسئول نظارت بر اجرای شیوه‌نامه میهمانی و انتقال دانشگاه اصفهان است و در چه صورتی می‌توان درخواست رد‌شده را تجدیدنظر کرد؟",
+    "relevant_answer": [
+      "enteghali_article_9"
+    ],
+    "domain": "enteghali",
+    "question_type": "single"
+  },
+  {
+    "id": 59,
+    "question": "برای اینکه اصولاً واجد شرایط دریافت وام صندوق رفاه باشم، چه شرایط عمومی درباره وضعیت دانشجویی، نیاز مالی، اشتغال، بورس و ضمانت باید داشته باشم؟",
+    "relevant_answer": [
+      "vaam_article_2_a"
+    ],
+    "domain": "vaam",
+    "question_type": "single"
+  },
+  {
+    "id": 60,
+    "question": "اگر یک نیمسال مشروط شوم یا دو نیمسال پشت سر هم مشروط شوم، دریافت وام تحصیلی در ترم بعد چه تغییری می‌کند؟",
+    "relevant_answer": [
+      "vaam_article_3_a"
+    ],
+    "domain": "vaam",
+    "question_type": "single"
+  },
+  {
+    "id": 61,
+    "question": "مبلغ وام تحصیلی برای دانشجوی متأهل و مجرد چه تفاوتی دارد و چه گروه‌هایی می‌توانند تا ۵۰ درصد افزایش وام بگیرند؟",
+    "relevant_answer": [
+      "vaam_article_3_a"
+    ],
+    "domain": "vaam",
+    "question_type": "single"
+  },
+  {
+    "id": 62,
+    "question": "وام ضروری ازدواج تا چه مدت پس از تاریخ عقد قابل دریافت است و آیا این وام در چند مقطع تحصیلی قابل استفاده است؟",
+    "relevant_answer": [
+      "vaam_article_4_c"
+    ],
+    "domain": "vaam",
+    "question_type": "single"
+  },
+  {
+    "id": 63,
+    "question": "دانشجوی دکتری پیوسته بعد از قبولی در آزمون جامع بین وام تحصیلی و وام ویژه دکتری چه انتخابی دارد و حداکثر چند نیمسال می‌تواند از وام ویژه دکتری استفاده کند؟",
+    "relevant_answer": [
+      "vaam_article_5"
+    ],
+    "domain": "vaam",
+    "question_type": "single"
+  },
+  {
+    "id": 64,
+    "question": "شرایط اجاره‌نامه برای دریافت وام مسکن دانشجویی چیست و آیا زوجین دانشجو هر دو می‌توانند از این وام استفاده کنند؟",
+    "relevant_answer": [
+      "vaam_article_6_a"
+    ],
+    "domain": "vaam",
+    "question_type": "single"
+  },
+  {
+    "id": 65,
+    "question": "دانشجویان کدام دانشگاه‌ها می‌توانند از وام شهریه استفاده کنند و آیا دانشجویان شاغل می‌توانند این وام را دریافت کنند؟",
+    "relevant_answer": [
+      "vaam_article_7"
+    ],
+    "domain": "vaam",
+    "question_type": "single"
+  },
+  {
+    "id": 66,
+    "question": "دانش‌آموختگانی که وام دانشجویی دریافت کرده‌اند برای گرفتن گواهی تحصیلی یا تأییدیه آموزشی چه پیش‌شرطی باید رعایت کنند؟",
+    "relevant_answer": [
+      "vaam_article_8_b"
+    ],
+    "domain": "vaam",
+    "question_type": "single"
+  },
+  {
+    "id": 67,
+    "question": "چه کسانی می‌توانند ضامن وام دانشجویی باشند و حداقل سابقه کار لازم برای ضامن قراردادی چقدر است؟",
+    "relevant_answer": [
+      "vaam_article_11"
+    ],
+    "domain": "vaam",
+    "question_type": "single"
+  },
+  {
+    "id": 68,
+    "question": "انواع وام‌های دانشجویی صندوق رفاه کدام‌اند و هر نوع وام به چه دسته‌ای از دانشجویان تعلق می‌گیرد؟",
+    "relevant_answer": [
+      "vaam_article_2_b"
+    ],
+    "domain": "vaam",
+    "question_type": "single"
+  },
+  {
+    "id": 69,
+    "question": "تازه دانشجوی ارشد شدم. برای ساختن ایمیل دانشگاهی باید کجا برم و چیکار کنم؟",
+    "relevant_answer": [
+      "emailQA_info_001",
+      "email_create_change_password"
+    ],
+    "domain": "email",
+    "question_type": "multi"
+  },
+  {
+    "id": 70,
+    "question": "ایمیل دانشگاهیم یه‌دفعه قطع شد و دیگه نمی‌تونم وارد بشم. ورودی ۹۸ هستم و هنوز دفاع نکردم.",
+    "relevant_answer": [
+      "emailQA_info_004",
+      "email_login_issues"
+    ],
+    "domain": "email",
+    "question_type": "multi"
+  },
+  {
+    "id": 71,
+    "question": "رمز ایمیل دانشگاهمو کاملاً فراموش کردم؛ راهی هست که خودم بدون تیکت ریست کنم؟",
+    "relevant_answer": [
+      "emailQA_info_005",
+      "email_create_change_password"
+    ],
+    "domain": "email",
+    "question_type": "multi"
+  },
+  {
+    "id": 72,
+    "question": "هر بار که یوزر و پسورد می‌زنم می‌گه Login failed — با اینکه مطمئنم درسته. مشکل از کجاست؟",
+    "relevant_answer": [
+      "emailQA_info_002",
+      "email_login_issues"
+    ],
+    "domain": "email",
+    "question_type": "multi"
+  },
+  {
+    "id": 73,
+    "question": "آدرس سایتی که باید باهاش وارد ایمیل دانشگاه اصفهان بشم چیه؟",
+    "relevant_answer": [
+      "emailQA_info_009",
+      "email_login_issues",
+      "email_create_change_password"
+    ],
+    "domain": "email",
+    "question_type": "multi"
+  },
+  {
+    "id": 74,
+    "question": "ایمیل دانشگاهی دانشجویان دانشکده‌های مختلف با چه دامنه‌ای ساخته می‌شه؟ eng و sci و math فرق دارن؟",
+    "relevant_answer": [
+      "emailQA_info_007",
+      "email_create_change_password"
+    ],
+    "domain": "email",
+    "question_type": "multi"
+  },
+  {
+    "id": 75,
+    "question": "دانشجوی کارشناسی هستم و نمی‌تونم از mehr.ui.ac.ir وارد ایمیلم بشم. چطور لاگین کنم؟",
+    "relevant_answer": [
+      "emailQA_info_003",
+      "email_login_issues"
+    ],
+    "domain": "email",
+    "question_type": "multi"
+  },
+  {
+    "id": 76,
+    "question": "موقع ساخت ایمیل شماره دانشجوییمو به عنوان username زدم. می‌شه آدرسشو عوض کنم؟",
+    "relevant_answer": [
+      "emailQA_info_006",
+      "email_create_change_password"
+    ],
+    "domain": "email",
+    "question_type": "multi"
+  },
+  {
+    "id": 77,
+    "question": "ایمیلمو اشتباه ساختم و می‌خوام حذف بشه تا دوباره با آدرس درست بسازم. چه مراحلی داره؟",
+    "relevant_answer": [
+      "emailQA_info_006",
+      "email_create_change_password"
+    ],
+    "domain": "email",
+    "question_type": "multi"
+  },
+  {
+    "id": 78,
+    "question": "یه هفته‌ست هیچ ایمیلی دریافت نمی‌کنم. چطور بررسی کنم مشکل از ظرفیت صندوق پستی است یا اختلال سرویس؟",
+    "relevant_answer": [
+      "emailQA_info_008",
+      "email_send_receive_issues",
+      "email_quota_awareness"
+    ],
+    "domain": "email",
+    "question_type": "multi"
+  },
+  {
+    "id": 79,
+    "question": "ایمیل دریافت می‌کنم ولی وقتی چیزی می‌فرستم به مقصد نمی‌رسه. مشکل از سرور دانشگاهه؟",
+    "relevant_answer": [
+      "emailQA_info_008",
+      "email_send_receive_issues"
+    ],
+    "domain": "email",
+    "question_type": "multi"
+  },
+  {
+    "id": 80,
+    "question": "ایمیلم پر شده و ارور می‌ده. ظرفیت هر گروه کاربری چقدره و چطور می‌تونم بیشتر بگیرم؟",
+    "relevant_answer": [
+      "emailQA_info_010",
+      "email_quota_capacity",
+      "email_quota_awareness"
+    ],
+    "domain": "email",
+    "question_type": "multi"
+  },
+  {
+    "id": 81,
+    "question": "می‌خوام ایمیل دانشگاه رو توی Outlook وصل کنم. IMAP یا POP3 فعاله؟",
+    "relevant_answer": [
+      "emailQA_info_011"
+    ],
+    "domain": "email",
+    "question_type": "single"
+  },
+  {
+    "id": 82,
+    "question": "وقتی وارد ایمیل می‌شم در قسمت نام کاربری باید آدرس کامل بزنم یا فقط آی‌دی؟",
+    "relevant_answer": [
+      "emailQA_info_002",
+      "emailQA_info_009",
+      "email_login_issues"
+    ],
+    "domain": "email",
+    "question_type": "multi"
+  },
+  {
+    "id": 83,
+    "question": "همه دانشجوها دارن می‌گن ایمیل کار نمی‌کنه. آیا سرور دانشگاه قطعیه؟ چی کار کنیم؟",
+    "relevant_answer": [
+      "emailQA_info_015",
+      "email_login_issues"
+    ],
+    "domain": "email",
+    "question_type": "multi"
+  },
+  {
+    "id": 84,
+    "question": "ایمیل تأیید ثبت‌نام از GitHub یا سایت مجله خارجی به ایمیل دانشگاهیم نمی‌رسه.",
+    "relevant_answer": [
+      "emailQA_info_008",
+      "email_send_receive_issues"
+    ],
+    "domain": "email",
+    "question_type": "multi"
+  },
+  {
+    "id": 85,
+    "question": "رمز ایمیلمو عوض کردم ولی بازم نمی‌تونم وارد بشم و می‌گه اشتباهه. چرا؟",
+    "relevant_answer": [
+      "emailQA_info_002",
+      "emailQA_info_005",
+      "email_login_issues",
+      "email_regulations_security"
+    ],
+    "domain": "email",
+    "question_type": "multi"
+  },
+  {
+    "id": 86,
+    "question": "تازه به‌عنوان عضو هیئت علمی استخدام شده‌ام و می‌خواهم ایمیل دانشگاهی بگیرم. برای ایجاد ایمیل باید چطور درخواست بدهم؟",
+    "relevant_answer": [
+      "emailQA_info_001",
+      "email_create_change_password"
+    ],
+    "domain": "email",
+    "question_type": "multi"
+  },
+  {
+    "id": 87,
+    "question": "اگه کسی رمز ایمیل دانشگاهیمو داشته باشه و ازش سوءاستفاده کنه مسئولیتش با کیه؟",
+    "relevant_answer": [
+      "email_regulations_security",
+      "email_regulations_misuse"
+    ],
+    "domain": "email",
+    "question_type": "multi"
+  },
+  {
+    "id": 88,
+    "question": "آیا دانشگاه می‌تونه محتوای ایمیل‌های من رو بخونه؟ آیین‌نامه در این مورد چی می‌گه؟",
+    "relevant_answer": [
+      "email_regulations_confidentiality",
+      "email_regulations_inspection_violations"
+    ],
+    "domain": "email",
+    "question_type": "multi"
+  },
+  {
+    "id": 89,
+    "question": "تیکتی که تو سامانه پشتیبانی زدم رو نمی‌بینم. چطور ببینم کجاست و کی جواب داده؟",
+    "relevant_answer": [
+      "emailQA_info_014"
+    ],
+    "domain": "email",
+    "question_type": "single"
+  },
+  {
+    "id": 90,
+    "question": "می‌خوام فایل‌های درسیمو روی cloud دانشگاه بذارم. این امکان برای دانشجوها هم هست؟",
+    "relevant_answer": [
+      "emailQA_info_012"
+    ],
+    "domain": "email",
+    "question_type": "single"
+  },
+  {
+    "id": 91,
+    "question": "دانشجوی دکترا هستم و برای تحقیقاتم نیاز دارم از خونه به اینترنت بین‌الملل دانشگاه وصل بشم. ممکنه؟",
+    "relevant_answer": [
+      "emailQA_info_013"
+    ],
+    "domain": "email",
+    "question_type": "single"
+  },
+  {
+    "id": 92,
+    "question": "بعد از دفاع از رساله دکترا تا کِی می‌تونم از ایمیل دانشگاهیم استفاده کنم؟",
+    "relevant_answer": [
+      "emailQA_info_004",
+      "email_regulations_intro_scope"
+    ],
+    "domain": "email",
+    "question_type": "multi"
+  },
+  {
+    "id": 93,
+    "question": "چطور بفهمم چقدر از ظرفیت صندوق ایمیل دانشگاهیم استفاده کردم؟",
+    "relevant_answer": [
+      "email_quota_awareness",
+      "emailQA_info_010"
+    ],
+    "domain": "email",
+    "question_type": "multi"
+  },
+  {
+    "id": 94,
+    "question": "آیا می‌تونم از ایمیل دانشگاهیم برای کارهای تجاری یا تبلیغات استفاده کنم؟",
+    "relevant_answer": [
+      "email_regulations_misuse",
+      "email_regulations_intro_scope"
+    ],
+    "domain": "email",
+    "question_type": "multi"
+  },
+  {
+    "id": 95,
+    "question": "ارسال و دریافت ایمیلم ناگهان متوقف شده و چند کاربر دیگر هم همزمان مشکل دارند. از کجا بفهمم مشکل از صندوق ایمیل من است یا اختلال سراسری سرویس؟",
+    "relevant_answer": [
+      "emailQA_info_015",
+      "emailQA_info_008"
+    ],
+    "domain": "email",
+    "question_type": "multi"
+  },
+  {
+    "id": 96,
+    "question": "ایمیلمو تو دامنه اشتباه ساختم. می‌شه دامنه‌اش رو عوض کرد یا باید از اول بسازم؟",
+    "relevant_answer": [
+      "emailQA_info_006",
+      "emailQA_info_007",
+      "email_create_change_password"
+    ],
+    "domain": "email",
+    "question_type": "multi"
+  },
+  {
+    "id": 97,
+    "question": "آیین‌نامه استفاده از ایمیل دانشگاه اصفهان شامل چه افرادی می‌شه و چه مواردی رو تنظیم می‌کنه؟",
+    "relevant_answer": [
+      "email_regulations_intro_scope"
+    ],
+    "domain": "email",
+    "question_type": "single"
+  },
+  {
+    "id": 98,
+    "question": "ایمیل دانشجویی کارشناسیم ساختم ولی inbox همیشه خالیه و هیچی دریافت نمی‌کنم.",
+    "relevant_answer": [
+      "emailQA_info_003",
+      "email_send_receive_issues"
+    ],
+    "domain": "email",
+    "question_type": "multi"
+  },
+  {
+    "id": 99,
+    "question": "اطلاعات اولیه ورود به سامانه LMS دانشگاه اصفهان برای دانشجوی جدید چیست؟",
+    "relevant_answer": [
+      "lmsQA_153"
+    ],
+    "domain": "lms",
+    "question_type": "single"
+  },
+  {
+    "id": 100,
+    "question": "رمز عبور LMS را فراموش کردم و پیامک بازیابی هم نمی‌رسد چه کار کنم؟",
+    "relevant_answer": [
+      "lmsQA_151",
+      "lmsQA_152",
+      "lmsQA_156"
+    ],
+    "domain": "lms",
+    "question_type": "multi"
+  },
+  {
+    "id": 101,
+    "question": "چرا صفحه آزمون در گوشی موبایل خودبخود رفرش می‌شود و پاسخ‌هایم از دست می‌رود؟",
+    "relevant_answer": [
+      "lmsQA_132"
+    ],
+    "domain": "lms",
+    "question_type": "single"
+  },
+  {
+    "id": 102,
+    "question": "آیا اگر دکمه اتمام آزمون را نزنم پاسخ‌هایم ثبت می‌شود؟",
+    "relevant_answer": [
+      "lmsQA_134"
+    ],
+    "domain": "lms",
+    "question_type": "single"
+  },
+  {
+    "id": 103,
+    "question": "نتیجه آزمون نشان می‌دهد تعداد پاسخ‌هایم کمتر از آن چیزی است که دادم؛ چرا؟",
+    "relevant_answer": [
+      "lmsQA_133"
+    ],
+    "domain": "lms",
+    "question_type": "single"
+  },
+  {
+    "id": 104,
+    "question": "روش تصحیح آزمون‌های چهارگزینه‌ای در سامانه چطور است و نمره منفی دارد؟",
+    "relevant_answer": [
+      "lmsQA_135",
+      "lmsQA_144"
+    ],
+    "domain": "lms",
+    "question_type": "multi"
+  },
+  {
+    "id": 105,
+    "question": "فایل پاسخ تشریحی را آپلود کردم ولی دکمه ثبت را فراموش کردم؛ آیا ثبت شده؟",
+    "relevant_answer": [
+      "lmsQA_136"
+    ],
+    "domain": "lms",
+    "question_type": "single"
+  },
+  {
+    "id": 106,
+    "question": "اگر متن پاسخ تشریحی را تایپ کردم ولی مهلت تمام شد آیا ذخیره می‌شود؟",
+    "relevant_answer": [
+      "lmsQA_141"
+    ],
+    "domain": "lms",
+    "question_type": "single"
+  },
+  {
+    "id": 107,
+    "question": "آیا می‌توانم آزمون را همزمان در دو تب یا دو دستگاه مختلف باز کنم؟",
+    "relevant_answer": [
+      "lmsQA_142",
+      "lmsQA_147"
+    ],
+    "domain": "lms",
+    "question_type": "multi"
+  },
+  {
+    "id": 108,
+    "question": "در حین آزمون اینترنتم قطع شد؛ آیا پاسخ‌های چهارگزینه‌ای ثبت شده‌اند؟",
+    "relevant_answer": [
+      "lmsQA_140",
+      "lmsQA_138"
+    ],
+    "domain": "lms",
+    "question_type": "multi"
+  },
+  {
+    "id": 109,
+    "question": "چطور بفهمم که پاسخم در آزمون ثبت شده است؟",
+    "relevant_answer": [
+      "lmsQA_149"
+    ],
+    "domain": "lms",
+    "question_type": "single"
+  },
+  {
+    "id": 110,
+    "question": "زمان آزمون در سامانه چطور محاسبه می‌شود و آیا دستگاه من روی آن تأثیر دارد؟",
+    "relevant_answer": [
+      "lmsQA_139"
+    ],
+    "domain": "lms",
+    "question_type": "single"
+  },
+  {
+    "id": 111,
+    "question": "چرا نباید در حین آزمون صفحه را رفرش کنم یا ببندم؟",
+    "relevant_answer": [
+      "lmsQA_143",
+      "lmsQA_145"
+    ],
+    "domain": "lms",
+    "question_type": "multi"
+  },
+  {
+    "id": 112,
+    "question": "آپلود فایل پاسخ خیلی کند است یا هیچ پیامی نمی‌دهد؛ مشکل از کجاست؟",
+    "relevant_answer": [
+      "lmsQA_146",
+      "lmsQA_148",
+      "lmsQA_203"
+    ],
+    "domain": "lms",
+    "question_type": "multi"
+  },
+  {
+    "id": 113,
+    "question": "سامانه پیام «همزمانی یا محدودیت» می‌دهد و صفحه آزمونم بسته می‌شود؟",
+    "relevant_answer": [
+      "lmsQA_147"
+    ],
+    "domain": "lms",
+    "question_type": "single"
+  },
+  {
+    "id": 114,
+    "question": "آیا سامانه LMS تقلب را تشخیص می‌دهد و چه روش‌هایی دارد؟",
+    "relevant_answer": [
+      "lmsQA_150"
+    ],
+    "domain": "lms",
+    "question_type": "single"
+  },
+  {
+    "id": 115,
+    "question": "پیام «بازیابی آخر شما موفق بوده» می‌آید ولی هنوز نمی‌توانم وارد شوم؟",
+    "relevant_answer": [
+      "lmsQA_155"
+    ],
+    "domain": "lms",
+    "question_type": "single"
+  },
+  {
+    "id": 116,
+    "question": "بعد از چند بار ورود اشتباه اکانتم قفل شد؛ چه مدت باید صبر کنم؟",
+    "relevant_answer": [
+      "lmsQA_159"
+    ],
+    "domain": "lms",
+    "question_type": "single"
+  },
+  {
+    "id": 117,
+    "question": "استاد مدعو خارج از دانشگاه هستم و می‌خواهم در جلسه دفاع آنلاین شرکت کنم؟",
+    "relevant_answer": [
+      "lmsQA_160",
+      "lmsQA_193"
+    ],
+    "domain": "lms",
+    "question_type": "multi"
+  },
+  {
+    "id": 118,
+    "question": "کش مرورگر را چطور پاک کنم؟ (کروم، فایرفاکس، اج، سافاری، سامسونگ)",
+    "relevant_answer": [
+      "lmsQA_161",
+      "lmsQA_162",
+      "lmsQA_163",
+      "lmsQA_164",
+      "lmsQA_165",
+      "lmsQA_166"
+    ],
+    "domain": "lms",
+    "question_type": "multi"
+  },
+  {
+    "id": 119,
+    "question": "چطور در جلسه آنلاین بیگ‌بلوباتن میکروفون یا وب‌کم خود را فعال کنم؟",
+    "relevant_answer": [
+      "lmsQA_176",
+      "lmsQA_180",
+      "lmsQA_185",
+      "lmsQA_186"
+    ],
+    "domain": "lms",
+    "question_type": "multi"
+  },
+  {
+    "id": 120,
+    "question": "صدا در بیگ‌بلوباتن اکو می‌کند یا قطع‌وصل می‌شود؛ چطور رفع کنم؟",
+    "relevant_answer": [
+      "lmsQA_187",
+      "lmsQA_192"
+    ],
+    "domain": "lms",
+    "question_type": "multi"
+  },
+  {
+    "id": 121,
+    "question": "روی عنوان جلسه کلیک می‌کنم ولی وارد جلسه نمی‌شوم یا صفحه This site can't be reached می‌آید؟",
+    "relevant_answer": [
+      "lmsQA_188",
+      "lmsQA_189",
+      "lmsQA_191"
+    ],
+    "domain": "lms",
+    "question_type": "multi"
+  },
+  {
+    "id": 122,
+    "question": "استاد هستم و می‌خواهم کاربران جلسه آنلاین را محدود کنم یا اتاق‌های گروهی بسازم؟",
+    "relevant_answer": [
+      "lmsQA_181",
+      "lmsQA_182",
+      "lmsQA_184"
+    ],
+    "domain": "lms",
+    "question_type": "multi"
+  },
+  {
+    "id": 123,
+    "question": "حجم و فرمت مجاز برای آپلود فایل در LMS چقدر است؟",
+    "relevant_answer": [
+      "lmsQA_201",
+      "lmsQA_202"
+    ],
+    "domain": "lms",
+    "question_type": "multi"
+  },
+  {
+    "id": 124,
+    "question": "خطای «لاگین منقضی شده» هنگام آپلود فایل می‌آید؛ علت چیست؟",
+    "relevant_answer": [
+      "lmsQA_204"
+    ],
+    "domain": "lms",
+    "question_type": "single"
+  },
+  {
+    "id": 125,
+    "question": "دروسی که در گلستان انتخاب واحد کرده‌ام در LMS نشان داده نمی‌شود؟",
+    "relevant_answer": [
+      "lmsQA_216"
+    ],
+    "domain": "lms",
+    "question_type": "single"
+  },
+  {
+    "id": 126,
+    "question": "چطور به عنوان استاد یک دستیار آموزشی به کلاسم اضافه کنم؟",
+    "relevant_answer": [
+      "lmsQA_217",
+      "lmsQA_218"
+    ],
+    "domain": "lms",
+    "question_type": "multi"
+  },
+  {
+    "id": 127,
+    "question": "بهترین روش عکاسی از پاسخ‌برگ با گوشی برای ارسال به سامانه چیست؟",
+    "relevant_answer": [
+      "lmsQA_198",
+      "lmsQA_199",
+      "lmsQA_200"
+    ],
+    "domain": "lms",
+    "question_type": "multi"
+  },
+  {
+    "id": 128,
+    "question": "گواهی حضور کارگاه پژوهشی چطور و چه زمانی صادر می‌شود؟",
+    "relevant_answer": [
+      "lmsQA_206",
+      "lmsQA_207",
+      "lmsQA_208",
+      "lmsQA_209"
+    ],
+    "domain": "lms",
+    "question_type": "multi"
+  },
+  {
+    "id": 129,
+    "question": "استاد نمره امتحانم را در سامانه ثبت کرده و فکر می‌کنم اشتباه است؛ تا چه زمانی فرصت اعتراض دارم و از چه طریقی باید ثبت کنم؟",
+    "relevant_answer": [
+      "ac_article_8_1"
+    ],
+    "domain": "academic",
+    "question_type": "single"
+  },
+  {
+    "id": 130,
+    "question": "از دانشگاه یا رشته دیگری منتقل شده‌ام؛ برای تطبیق واحدها چه محدودیت‌هایی درباره زمان گذراندن درس و حداقل نمره وجود دارد؟",
+    "relevant_answer": [
+      "ac_article_12"
+    ],
+    "domain": "academic",
+    "question_type": "single"
+  },
+  {
+    "id": 131,
+    "question": "دانشجوی کارشناسی پیوسته‌ام و به پایان سنوات نزدیک شده‌ام؛ مدت مجاز تحصیل چند نیمسال است و دانشگاه حداکثر چند نیمسال می‌تواند آن را تمدید کند؟",
+    "relevant_answer": [
+      "ac_article_14"
+    ],
+    "domain": "academic",
+    "question_type": "single"
+  },
+  {
+    "id": 132,
+    "question": "دانشجوی دکتری هستم و هنوز استاد راهنما و موضوع رساله‌ام قطعی نشده؛ تا چه زمانی باید آن‌ها را تصویب کنم و تأخیر چه اثری روی سنوات دارد؟",
+    "relevant_answer": [
+      "ac_article_43"
+    ],
+    "domain": "academic",
+    "question_type": "single"
+  },
+  {
+    "id": 133,
+    "question": "اگر در پرونده انضباطی برای اثبات تخلف به پیام‌ها یا صفحه شخصی من که با تجسس به دست آمده استناد شود، آیا شورا می‌تواند آن را مبنای رأی قرار دهد؟",
+    "relevant_answer": [
+      "disc_principle_15_16"
+    ],
+    "domain": "discipline",
+    "question_type": "single"
+  },
+  {
+    "id": 134,
+    "question": "آیا اطلاعات پرونده انضباطی من می‌تواند قبل از قطعی شدن حکم منتشر شود و شورا موظف است دلیل تصمیمش را در حکم توضیح دهد؟",
+    "relevant_answer": [
+      "disc_principle_8_14"
+    ],
+    "domain": "discipline",
+    "question_type": "single"
+  },
+  {
+    "id": 135,
+    "question": "اگر یکی از اعضای شورای انضباطی با من یا شاکی نسبت فامیلی داشته باشد یا قبلاً در همین موضوع رأی داده باشد، آیا می‌تواند در رأی‌گیری شرکت کند؟",
+    "relevant_answer": [
+      "disc_article_11"
+    ],
+    "domain": "discipline",
+    "question_type": "single"
+  },
+  {
+    "id": 136,
+    "question": "اگر در جریان پرونده انضباطی با شاکی سازش کنم یا رضایت او را بگیرم، آیا ممکن است تنبیه سبک‌تر شود یا پرونده بدون درج سابقه مختومه شود؟",
+    "relevant_answer": [
+      "disc_article_23"
+    ],
+    "domain": "discipline",
+    "question_type": "single"
+  },
+  {
+    "id": 137,
+    "question": "وقتی پرونده‌ام در شورای بدوی مطرح می‌شود، آیا حق دارم در جلسه حاضر شوم و شخصاً از خودم دفاع کنم؟",
+    "relevant_answer": [
+      "disc_article_81"
+    ],
+    "domain": "discipline",
+    "question_type": "single"
+  },
+  {
+    "id": 138,
+    "question": "از حکم بدوی انضباطی اعتراض دارم؛ چند روز وقت دارم و درخواست تجدیدنظر را با چه مدارکی و کجا باید تحویل بدهم؟",
+    "relevant_answer": [
+      "disc_article_87",
+      "disc_article_88"
+    ],
+    "domain": "discipline",
+    "question_type": "multi"
+  },
+  {
+    "id": 139,
+    "question": "اگر به حکم بدوی اعتراض کنم، شورای تجدیدنظر معمولاً تا چه زمانی باید تصمیم بگیرد و آیا صرف اعتراض من می‌تواند باعث شدیدتر شدن حکم شود؟",
+    "relevant_answer": [
+      "disc_article_89",
+      "disc_article_90"
+    ],
+    "domain": "discipline",
+    "question_type": "multi"
+  },
+  {
+    "id": 140,
+    "question": "حکم انضباطی که به من ابلاغ می‌شود باید چه اطلاعاتی درباره دلیل تخلف، نوع تنبیه و امکان اعتراض داشته باشد؟",
+    "relevant_answer": [
+      "disc_article_100"
+    ],
+    "domain": "discipline",
+    "question_type": "single"
+  },
+  {
+    "id": 141,
+    "question": "بعد از فارغ‌التحصیلی، سابقه حکم انضباطی من چه زمانی می‌تواند از سوابق اثرزدایی شود و در استعلام‌ها چگونه اعلام می‌شود؟",
+    "relevant_answer": [
+      "disc_article_118"
+    ],
+    "domain": "discipline",
+    "question_type": "single"
+  },
+  {
+    "id": 142,
+    "question": "چهار نیمسال میهمان بوده‌ام اما شرایط انتقال دائم را نگرفته‌ام؛ آیا می‌توانم میهمان دائم شوم و در این حالت مدرک نهایی را کدام دانشگاه صادر می‌کند؟",
+    "relevant_answer": [
+      "enteghali_article_3_c"
+    ],
+    "domain": "enteghali",
+    "question_type": "single"
+  },
+  {
+    "id": 143,
+    "question": "می‌خواهم هم محل تحصیلم و هم رشته‌ام را به دانشگاه اصفهان تغییر بدهم؛ چه شرایط اولیه‌ای لازم است و این نوع انتقال در چه دوره‌ای انجام می‌شود؟",
+    "relevant_answer": [
+      "enteghali_article_6"
+    ],
+    "domain": "enteghali",
+    "question_type": "single"
+  },
+  {
+    "id": 144,
+    "question": "برای مبلغ وامی که می‌خواهم بگیرم چند ضامن لازم است و نوع ضامن با افزایش مبلغ وام چگونه تغییر می‌کند؟",
+    "relevant_answer": [
+      "vaam_article_10"
+    ],
+    "domain": "vaam",
+    "question_type": "single"
+  },
+  {
+    "id": 145,
+    "question": "برای تشکیل پرونده ضمانت وام، ضامن چه مدارکی باید ارائه کند و برای سند تعهد محضری چه مدارکی باید به اداره رفاه تحویل بدهم؟",
+    "relevant_answer": [
+      "vaam_article_12",
+      "vaam_article_18_22"
+    ],
+    "domain": "vaam",
+    "question_type": "multi"
+  },
+  {
+    "id": 146,
+    "question": "اگر از دانشگاه انصراف بدهم یا ترک تحصیل کنم، برای تسویه وام‌ها چه مهلتی دارم و آیا امکان تقسیط بدهی وجود دارد؟",
+    "relevant_answer": [
+      "vaam_article_9_c"
+    ],
+    "domain": "vaam",
+    "question_type": "single"
+  },
+  {
+    "id": 147,
+    "question": "دانشجوی ورودی جدیدم و بعد از ورود به LMS پیام می‌بینم که انتخاب واحد نهایی نشده؛ علت چیست و اگر برطرف نشد با چه واحدی پیگیری کنم؟",
+    "relevant_answer": [
+      "lmsQA_158"
+    ],
+    "domain": "lms",
+    "question_type": "single"
+  },
+  {
+    "id": 148,
+    "question": "استاد برای کلاس تکلیف گذاشته اما نمی‌دانم فایل پاسخ را کجا ارسال کنم؛ اگر آیتم تمرین در صفحه کلاس وجود نداشته باشد چه کار کنم؟",
+    "relevant_answer": [
+      "lmsQA_171"
+    ],
+    "domain": "lms",
+    "question_type": "single"
+  },
+  {
+    "id": 149,
+    "question": "حجم و فرمت فایل من درست است ولی LMS باز هم هنگام آپلود خطا می‌دهد؛ چه تغییری در نام فایل امتحان کنم؟",
+    "relevant_answer": [
+      "lmsQA_205"
+    ],
+    "domain": "lms",
+    "question_type": "single"
+  },
+  {
+    "id": 150,
+    "question": "استاد لینکی از Cloud دانشگاه در LMS گذاشته اما بیرون دانشگاه فایل برایم باز یا دانلود نمی‌شود؛ علت چیست و از کجا پیگیری کنم؟",
+    "relevant_answer": [
+      "lmsQA_221"
+    ],
+    "domain": "lms",
+    "question_type": "single"
+  }
+]

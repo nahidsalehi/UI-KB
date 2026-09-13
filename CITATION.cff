@@ -1,0 +1,15 @@
+cff-version: 1.2.0
+message: "If you use UI-KB, please cite the associated paper and archived software/data release."
+title: "UI-KB: A Persian Institutional Retrieval and Reranking Benchmark for Higher Education"
+type: software
+version: 1.0.0
+date-released: 2026-09-13
+authors:
+  - family-names: Salehi
+    given-names: Nahid
+  - family-names: Zamani
+    given-names: Abbas
+  - family-names: Montazerolghaem
+    given-names: Ahmadreza
+repository-code: "https://github.com/nahidsalehi/UI-KB"
+# Add the final Zenodo DOI here after minting the release DOI.

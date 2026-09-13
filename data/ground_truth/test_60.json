@@ -1,0 +1,543 @@
+[
+  {
+    "id": 1,
+    "question": "ترم آخر کارشناسی هستم و برای فارغ‌التحصیلی باید یک درس را بدون رعایت ترتیب پیش‌نیاز بگیرم؛ آیا در آخرین نیمسال از این محدودیت معاف می‌شوم؟",
+    "relevant_answer": [
+      "ac_article_5"
+    ],
+    "domain": "academic",
+    "question_type": "single"
+  },
+  {
+    "id": 2,
+    "question": "اگر در یک درس مردود شوم یا آن را حذف اضطراری کنم و مجبور باشم دوباره همان درس را بگیرم، آیا ممکن است برای اخذ مجدد شهریه بپردازم؟",
+    "relevant_answer": [
+      "ac_article_6"
+    ],
+    "domain": "academic",
+    "question_type": "single"
+  },
+  {
+    "id": 3,
+    "question": "به دلیل مشکل پزشکی نیاز دارم یک ترم مرخصی بگیرم؛ چه نوع مرخصی‌هایی می‌تواند بدون احتساب در سنوات باشد و درخواست را تا چه زمانی باید ثبت کنم؟",
+    "relevant_answer": [
+      "ac_article_9"
+    ],
+    "domain": "academic",
+    "question_type": "single"
+  },
+  {
+    "id": 4,
+    "question": "دانشجوی کارشناسی حضوری هستم و همزمان در دانشگاه دیگری هم پذیرش حضوری گرفته‌ام؛ آیا می‌توانم هر دو را ادامه بدهم؟",
+    "relevant_answer": [
+      "ac_article_15"
+    ],
+    "domain": "academic",
+    "question_type": "single"
+  },
+  {
+    "id": 5,
+    "question": "از ابتدای ورود به دانشگاه برای تصمیم‌های آموزشی باید مشاور مشخصی داشته باشم؛ آیا دانشگاه موظف است برای من راهنمای آموزشی تعیین کند؟",
+    "relevant_answer": [
+      "ac_article_22"
+    ],
+    "domain": "academic",
+    "question_type": "single"
+  },
+  {
+    "id": 6,
+    "question": "همه واحدهای کارشناسی را پاس کرده‌ام ولی معدل کل من هنوز زیر ۱۲ است؛ آیا فرصتی برای جبران معدل و فارغ‌التحصیلی دارم؟",
+    "relevant_answer": [
+      "ac_article_24"
+    ],
+    "domain": "academic",
+    "question_type": "single"
+  },
+  {
+    "id": 7,
+    "question": "برای کارشناسی ارشد در رشته‌ای پذیرفته شده‌ام که با کارشناسی‌ام مرتبط نیست؛ چند واحد جبرانی ممکن است برایم تعیین شود و آیا نمره آن‌ها در معدل کل حساب می‌شود؟",
+    "relevant_answer": [
+      "ac_article_33"
+    ],
+    "domain": "academic",
+    "question_type": "single"
+  },
+  {
+    "id": 8,
+    "question": "کار پایان‌نامه ارشدم تمام شده ولی هنوز تأیید استاد راهنما را نگرفته‌ام؛ آیا می‌توانم برای دفاع اقدام کنم؟",
+    "relevant_answer": [
+      "ac_article_35"
+    ],
+    "domain": "academic",
+    "question_type": "single"
+  },
+  {
+    "id": 9,
+    "question": "دکتری هستم و معدل خیلی بالایی دارم؛ آیا در بعضی شرایط می‌توانم به‌جای آزمون جامع از دستاورد علمی یا معدل استفاده کنم؟",
+    "relevant_answer": [
+      "ac_article_44"
+    ],
+    "domain": "academic",
+    "question_type": "single"
+  },
+  {
+    "id": 10,
+    "question": "واحدهای آموزشی دکتری را تمام کرده‌ام؛ چه زمانی باید در آزمون جامع شرکت کنم و اگر بدون عذر موجه شرکت نکنم، آیا آن نوبت از دفعات مجازم کم می‌شود؟",
+    "relevant_answer": [
+      "ac_article_44_1"
+    ],
+    "domain": "academic",
+    "question_type": "single"
+  },
+  {
+    "id": 11,
+    "question": "برای ادامه بخشی از پژوهش رساله دکتری می‌خواهم مدتی در دانشگاه دیگری داخل یا خارج کشور کار کنم؛ آیا فرصت تحقیقاتی در مدت مجاز تحصیل پیش‌بینی شده است؟",
+    "relevant_answer": [
+      "ac_article_46"
+    ],
+    "domain": "academic",
+    "question_type": "single"
+  },
+  {
+    "id": 12,
+    "question": "برای دفاع از رساله دکتری چه حداقل دستاورد علمی لازم است و چه کسی باید کفایت دستاوردها را تأیید کند؟",
+    "relevant_answer": [
+      "ac_article_47"
+    ],
+    "domain": "academic",
+    "question_type": "single"
+  },
+  {
+    "id": 13,
+    "question": "بعد از دفاع موفق از رساله دکتری، تاریخ فارغ‌التحصیلی من چه روزی محسوب می‌شود و حداقل معدل کل لازم چقدر است؟",
+    "relevant_answer": [
+      "ac_article_49"
+    ],
+    "domain": "academic",
+    "question_type": "single"
+  },
+  {
+    "id": 14,
+    "question": "من ورودی قبل از سال تحصیلی ۱۴۰۲-۱۴۰۳ هستم؛ آیا مقررات آیین‌نامه جدید برای من اعمال می‌شود یا باید طبق آیین‌نامه ورودی خودم ادامه بدهم؟",
+    "relevant_answer": [
+      "ac_article_53"
+    ],
+    "domain": "academic",
+    "question_type": "single"
+  },
+  {
+    "id": 15,
+    "question": "اگر کاری را با قصد تخلف شروع کنم ولی تخلف کامل نشود، آیا باز هم ممکن است به عنوان «شروع به تخلف» برایم حکم صادر شود؟",
+    "relevant_answer": [
+      "disc_article_15"
+    ],
+    "domain": "discipline",
+    "question_type": "single"
+  },
+  {
+    "id": 16,
+    "question": "اگر قبل از ابلاغ حکم قطعی دوباره همان تخلف را انجام بدهم، آیا دو حکم جدا می‌گیرم یا امکان تجمیع وجود دارد؟",
+    "relevant_answer": [
+      "disc_article_18"
+    ],
+    "domain": "discipline",
+    "question_type": "single"
+  },
+  {
+    "id": 17,
+    "question": "اگر به محرومیت تحصیلی محکوم شوم، آیا ورودم به دانشگاه و استفاده از خدمات دانشجویی هم خودبه‌خود ممنوع می‌شود؟",
+    "relevant_answer": [
+      "disc_article_21"
+    ],
+    "domain": "discipline",
+    "question_type": "single"
+  },
+  {
+    "id": 18,
+    "question": "آیا شورای انضباطی می‌تواند بدون گرفتن نظر مرکز مشاوره، حکم محرومیت از خوابگاه صادر و اجرا کند؟",
+    "relevant_answer": [
+      "disc_article_22"
+    ],
+    "domain": "discipline",
+    "question_type": "single"
+  },
+  {
+    "id": 19,
+    "question": "اگر حکمی برایم صادر شده ولی هنوز مرجع بالاتر تصمیم نگرفته است، آیا شورای صادرکننده می‌تواند اجرای همه یا بخشی از حکم را موقتاً تعلیق کند؟",
+    "relevant_answer": [
+      "disc_article_24"
+    ],
+    "domain": "discipline",
+    "question_type": "single"
+  },
+  {
+    "id": 20,
+    "question": "اگر دانشجویی به دانشجوی دیگری توهین یا افترا بزند، دامنه تنبیه انضباطی چگونه تعیین می‌شود و تکرار تخلف چه اثری دارد؟",
+    "relevant_answer": [
+      "disc_article_25"
+    ],
+    "domain": "discipline",
+    "question_type": "single"
+  },
+  {
+    "id": 21,
+    "question": "اگر وسط رسیدگی به پرونده‌ام تخلف دیگری کشف شود که در دعوت‌نامه و پرونده اولیه نبوده، آیا همان جلسه می‌تواند درباره آن هم رأی بدهد؟",
+    "relevant_answer": [
+      "disc_article_83"
+    ],
+    "domain": "discipline",
+    "question_type": "single"
+  },
+  {
+    "id": 22,
+    "question": "از رأی شورای تجدیدنظر هم ناراضی‌ام؛ چه نوع احکامی را می‌توانم به شورای مرکزی ببرم و چند روز فرصت دارم؟",
+    "relevant_answer": [
+      "disc_article_94"
+    ],
+    "domain": "discipline",
+    "question_type": "single"
+  },
+  {
+    "id": 23,
+    "question": "برای اعتراض به شورای مرکزی چه مدارکی باید تحویل بدهم و دانشگاه چند روز وقت دارد پرونده را برای شورای مرکزی بفرستد؟",
+    "relevant_answer": [
+      "disc_article_95"
+    ],
+    "domain": "discipline",
+    "question_type": "single"
+  },
+  {
+    "id": 24,
+    "question": "اگر عمداً برای دریافت حکم قابل اعتراض به دبیرخانه مراجعه نکنم، آیا مهلت اعتراضم حفظ می‌شود؟",
+    "relevant_answer": [
+      "disc_article_101"
+    ],
+    "domain": "discipline",
+    "question_type": "single"
+  },
+  {
+    "id": 25,
+    "question": "اگر حکم قطعی محرومیت در روزهای آخر ترم و درست قبل از امتحانات صادر شود، اجرای آن همان ترم شروع می‌شود؟",
+    "relevant_answer": [
+      "disc_article_104"
+    ],
+    "domain": "discipline",
+    "question_type": "single"
+  },
+  {
+    "id": 26,
+    "question": "اگر از اجرای حکم قطعی انضباطی سرپیچی کنم، آیا ممکن است امور آموزشی‌ام متوقف شود؟",
+    "relevant_answer": [
+      "disc_article_105"
+    ],
+    "domain": "discipline",
+    "question_type": "single"
+  },
+  {
+    "id": 27,
+    "question": "پرونده انضباطی من هنوز باز است و می‌خواهم انتقالی بگیرم یا تسویه‌حساب کنم؛ آیا این کار بدون نظر شورای انضباطی ممکن است؟",
+    "relevant_answer": [
+      "disc_article_109"
+    ],
+    "domain": "discipline",
+    "question_type": "single"
+  },
+  {
+    "id": 28,
+    "question": "مدتی از شرکت در امتحان محروم بودم اما حکم نهایی‌ام کمتر از محرومیت یک نیمسال است؛ آیا امکان امتحان جبرانی وجود دارد؟",
+    "relevant_answer": [
+      "disc_article_113"
+    ],
+    "domain": "discipline",
+    "question_type": "single"
+  },
+  {
+    "id": 29,
+    "question": "اگر درباره یک رفتار من پرونده قضایی هم تشکیل شده باشد، آیا دانشگاه دیگر نمی‌تواند همان موضوع را انضباطی بررسی کند؟",
+    "relevant_answer": [
+      "disc_article_114"
+    ],
+    "domain": "discipline",
+    "question_type": "single"
+  },
+  {
+    "id": 30,
+    "question": "اگر رئیس دانشگاه موقتاً ورودم را به دانشگاه ممنوع کند و این مدت با امتحانات پایان ترم تداخل داشته باشد، تکلیف شرکت در امتحان چیست؟",
+    "relevant_answer": [
+      "disc_article_117"
+    ],
+    "domain": "discipline",
+    "question_type": "single"
+  },
+  {
+    "id": 31,
+    "question": "دانشگاه مبدأ با میهمانی من موافق است؛ آیا همین موافقت برای پذیرش در دانشگاه اصفهان کافی است یا ظرفیت و امکان ارائه خدمات هم بررسی می‌شود؟",
+    "relevant_answer": [
+      "enteghali_article_3_a"
+    ],
+    "domain": "enteghali",
+    "question_type": "single"
+  },
+  {
+    "id": 32,
+    "question": "درخواست میهمانی‌ام برای نیمسال اول بررسی شده؛ معمولاً نتیجه چه زمانی اعلام می‌شود و اگر خودم پیگیری نکنم مسئولیت با کیست؟",
+    "relevant_answer": [
+      "enteghali_article_3_c"
+    ],
+    "domain": "enteghali",
+    "question_type": "single"
+  },
+  {
+    "id": 33,
+    "question": "به عنوان دانشجوی میهمان می‌خواهم انتخاب واحد کنم؛ چه کسی باید واحدها را تأیید کند و اگر واحدها بعداً در دانشگاه مبدأ تطبیق نخورد مسئولیت با چه کسی است؟",
+    "relevant_answer": [
+      "enteghali_article_4_b"
+    ],
+    "domain": "enteghali",
+    "question_type": "single"
+  },
+  {
+    "id": 34,
+    "question": "فرزند عضو هیئت علمی یا دانشجوی شاهد و ایثارگر هستم؛ آیا درخواست میهمانی و انتقال من دقیقاً با همین شیوه‌نامه عمومی بررسی می‌شود؟",
+    "relevant_answer": [
+      "enteghali_article_8"
+    ],
+    "domain": "enteghali",
+    "question_type": "single"
+  },
+  {
+    "id": 35,
+    "question": "درخواست انتقال من رد شده؛ آیا بدون مدرک جدید می‌توانم دوباره همان درخواست را برای تجدیدنظر بفرستم یا باید مستندات تازه داشته باشم؟",
+    "relevant_answer": [
+      "enteghali_article_9"
+    ],
+    "domain": "enteghali",
+    "question_type": "single"
+  },
+  {
+    "id": 36,
+    "question": "دانشجوی میهمان هستم؛ وام دانشجویی را باید از دانشگاه مقصد بگیرم یا فقط دانشگاه مبدأ می‌تواند برایم وام ثبت کند؟",
+    "relevant_answer": [
+      "vaam_article_2_b"
+    ],
+    "domain": "vaam",
+    "question_type": "single"
+  },
+  {
+    "id": 37,
+    "question": "برای وام تحصیلی به دلیل وضعیت خاص مثل تأهل، توان‌خواهی یا پوشش بهزیستی درخواست افزایش دارم؛ چه مدارکی ممکن است از من بخواهند؟",
+    "relevant_answer": [
+      "vaam_article_3_b"
+    ],
+    "domain": "vaam",
+    "question_type": "single"
+  },
+  {
+    "id": 38,
+    "question": "در طول مقطع چند بار می‌توانم از وام ضروری استفاده کنم و آیا در یک نیمسال می‌شود برای دو رویداد مختلف وام ضروری گرفت؟",
+    "relevant_answer": [
+      "vaam_article_4_a"
+    ],
+    "domain": "vaam",
+    "question_type": "single"
+  },
+  {
+    "id": 39,
+    "question": "بعد از یک حادثه، بیماری پرهزینه یا بلای طبیعی تا چه زمانی فرصت دارم مدارک وام ضروری را ارائه کنم؟",
+    "relevant_answer": [
+      "vaam_article_4_b"
+    ],
+    "domain": "vaam",
+    "question_type": "single"
+  },
+  {
+    "id": 40,
+    "question": "برای گرفتن وام مسکن چه مدارکی درباره اجاره‌نامه و تأهل لازم است و مبلغ وام بر چه اساسی فرق می‌کند؟",
+    "relevant_answer": [
+      "vaam_article_6_b"
+    ],
+    "domain": "vaam",
+    "question_type": "single"
+  },
+  {
+    "id": 41,
+    "question": "بعد از پایان دوره دریافت وام برای گرفتن دفترچه اقساط تا چه زمانی باید اقدام کنم و قبل از آن چه مبلغی باید نقدی پرداخت شود؟",
+    "relevant_answer": [
+      "vaam_article_8_a"
+    ],
+    "domain": "vaam",
+    "question_type": "single"
+  },
+  {
+    "id": 42,
+    "question": "بعد از فارغ‌التحصیلی باید به خدمت سربازی بروم؛ زمان شروع بازپرداخت وام من چگونه تعیین می‌شود و چه زمانی باید وضعیت بدهی را اعلام کنم؟",
+    "relevant_answer": [
+      "vaam_article_9_a"
+    ],
+    "domain": "vaam",
+    "question_type": "single"
+  },
+  {
+    "id": 43,
+    "question": "بعد از فارغ‌التحصیلی در مقطع بالاتر قبول شده‌ام؛ آیا می‌توانم بازپرداخت وام مقطع قبلی را تا پایان مقطع جدید عقب بیندازم؟",
+    "relevant_answer": [
+      "vaam_article_9_a"
+    ],
+    "domain": "vaam",
+    "question_type": "single"
+  },
+  {
+    "id": 44,
+    "question": "کارمزد وام‌های دانشجویی چگونه اعمال می‌شود و آیا پرداخت همه وام‌ها حتی با داشتن شرایط قطعی است؟",
+    "relevant_answer": [
+      "vaam_article_13_17"
+    ],
+    "domain": "vaam",
+    "question_type": "single"
+  },
+  {
+    "id": 45,
+    "question": "قصد مهاجرت و ترک تابعیت دارم و هنوز بدهی وام صندوق رفاه دارم؛ قبل از اقدام چه کاری باید انجام بدهم؟",
+    "relevant_answer": [
+      "vaam_article_9_c"
+    ],
+    "domain": "vaam",
+    "question_type": "single"
+  },
+  {
+    "id": 46,
+    "question": "یک ایمیل ناشناس با فایل پیوست برایم آمده؛ طبق مقررات امنیتی ایمیل دانشگاه قبل از باز کردن پیوست چه احتیاطی باید انجام بدهم؟",
+    "relevant_answer": [
+      "email_regulations_security"
+    ],
+    "domain": "email",
+    "question_type": "single"
+  },
+  {
+    "id": 47,
+    "question": "می‌خواهم یک فایل حساس دانشگاهی را با ایمیل بفرستم؛ آیا می‌توانم آن را بدون رمزگذاری به ایمیل شخصی خارج دانشگاه منتقل کنم؟",
+    "relevant_answer": [
+      "email_regulations_confidentiality"
+    ],
+    "domain": "email",
+    "question_type": "single"
+  },
+  {
+    "id": 48,
+    "question": "آیا می‌توانم از ایمیل دانشگاه برای فرستادن پیام زنجیره‌ای، پیام ناشناس یا یک پیام تکراری به تعداد زیادی گیرنده استفاده کنم؟",
+    "relevant_answer": [
+      "email_regulations_misuse"
+    ],
+    "domain": "email",
+    "question_type": "single"
+  },
+  {
+    "id": 49,
+    "question": "ایمیل‌های مهم پایان‌نامه‌ام فقط داخل صندوق دانشگاه هستند؛ طبق مقررات مسئول پشتیبان‌گیری از نامه‌های مهم چه کسی است؟",
+    "relevant_answer": [
+      "email_regulations_security"
+    ],
+    "domain": "email",
+    "question_type": "single"
+  },
+  {
+    "id": 50,
+    "question": "صندوق ایمیلم به ۱۰۰ درصد رسیده و بعد از پاک کردن Inbox هنوز ایمیل نمی‌گیرم؛ چه پوشه‌های دیگری را باید خالی کنم و چه زمانی باید درخواست افزایش ظرفیت بدهم؟",
+    "relevant_answer": [
+      "email_quota_capacity",
+      "email_send_receive_issues"
+    ],
+    "domain": "email",
+    "question_type": "multi"
+  },
+  {
+    "id": 51,
+    "question": "وسط آزمون نگرانم بعضی سؤال‌ها اصلاً برایم لود نشده باشند؛ سامانه چطور تعداد سؤال‌های لودشده را کنترل می‌کند؟",
+    "relevant_answer": [
+      "lmsQA_137"
+    ],
+    "domain": "lms",
+    "question_type": "single"
+  },
+  {
+    "id": 52,
+    "question": "نام کاربری و رمز LMS را درست می‌زنم اما پیام «اطلاعات ورود صحیح نیست» می‌آید؛ چه چیزهایی را قبل از تیکت بررسی کنم؟",
+    "relevant_answer": [
+      "lmsQA_154"
+    ],
+    "domain": "lms",
+    "question_type": "single"
+  },
+  {
+    "id": 53,
+    "question": "دانشجوی اتباع هستم و گزینه بازیابی رمز LMS برایم کار نمی‌کند؛ برای احراز هویت چه اطلاعاتی باید به پشتیبانی بدهم؟",
+    "relevant_answer": [
+      "lmsQA_157"
+    ],
+    "domain": "lms",
+    "question_type": "single"
+  },
+  {
+    "id": 54,
+    "question": "امروز کلاس آنلاین دارم ولی لینک جلسه را پیدا نمی‌کنم؛ از کدام بخش‌های LMS می‌توانم جلسه امروز را پیدا کنم؟",
+    "relevant_answer": [
+      "lmsQA_169"
+    ],
+    "domain": "lms",
+    "question_type": "single"
+  },
+  {
+    "id": 55,
+    "question": "امروز آزمون آنلاین دارم و نمی‌دانم از کجا وارد شوم؛ مسیر درست ورود به آزمون در LMS چیست؟",
+    "relevant_answer": [
+      "lmsQA_170"
+    ],
+    "domain": "lms",
+    "question_type": "single"
+  },
+  {
+    "id": 56,
+    "question": "می‌خواهم از داخل LMS برای استاد درس پیام خصوصی بفرستم؛ چه مسیرهایی برای ارسال پیام وجود دارد؟",
+    "relevant_answer": [
+      "lmsQA_172"
+    ],
+    "domain": "lms",
+    "question_type": "single"
+  },
+  {
+    "id": 57,
+    "question": "LMS از دسترس خارج شده و نمی‌دانم مشکل از اینترنت من است یا سامانه؛ از چه راه‌هایی می‌توانم وضعیت اختلال را بررسی یا گزارش کنم؟",
+    "relevant_answer": [
+      "lmsQA_174"
+    ],
+    "domain": "lms",
+    "question_type": "single"
+  },
+  {
+    "id": 58,
+    "question": "از خانه با اینترنت همراه یا ثابت به LMS دسترسی ندارم، ولی بقیه سایت‌ها باز می‌شوند؛ برای پیگیری مشکل چه اطلاعاتی را باید به چه واحدی بدهم؟",
+    "relevant_answer": [
+      "lmsQA_212"
+    ],
+    "domain": "lms",
+    "question_type": "single"
+  },
+  {
+    "id": 59,
+    "question": "عکس پروفایلم در LMS اشتباه یا قدیمی است؛ آیا باید آن را مستقیماً در LMS عوض کنم یا ابتدا در سامانه دیگری اصلاح شود؟",
+    "relevant_answer": [
+      "lmsQA_214"
+    ],
+    "domain": "lms",
+    "question_type": "single"
+  },
+  {
+    "id": 60,
+    "question": "روی لینک یک فایل در LMS کلیک می‌کنم و به‌جای دانلود، صفحه‌ای با کاراکترهای نامفهوم باز می‌شود؛ اگر فایل RAR باشد چه روشی برای دانلود پیشنهاد شده است؟",
+    "relevant_answer": [
+      "lmsQA_220"
+    ],
+    "domain": "lms",
+    "question_type": "single"
+  }
+]

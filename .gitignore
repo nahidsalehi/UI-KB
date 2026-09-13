@@ -1,0 +1,20 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+.pytest_cache/
+.ruff_cache/
+
+# Local model weights / secrets
+models/
+.env
+*.pem
+*.key
+
+# Generated benchmark outputs (frozen reported workbooks in results/raw_workbooks are tracked)
+results/generated/
+
+# OS/editor
+.DS_Store
+.vscode/
+.idea/

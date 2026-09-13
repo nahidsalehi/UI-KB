@@ -1,0 +1,34 @@
+[preflight]
+  profile         : hazm
+  indices         : /root/NewRag/NahidCodes/UI-KB-reproducibility/indices/hazm
+  corpus chunks   : 377
+  GT questions    : 130
+  GT SHA256       : 5e6f3b36b2572006eef3cf35c6827fe1cb95a521080b049e3953d29270a2a237
+  missing GT IDs  : 0
+
+[model] e5
+  label           : multilingual-e5-base
+  model path      : /root/models/e5-model
+  local model     : OK
+  metadata rows   : 377
+  FAISS vectors   : 377
+  FAISS dim       : 768
+
+[model] bge_m3
+  label           : BGE-M3
+  model path      : /root/models/bge-m3
+  local model     : OK
+  metadata rows   : 377
+  FAISS vectors   : 377
+  FAISS dim       : 1024
+
+[model] qwen3
+  label           : Qwen3-Embedding-4B
+  model path      : /root/models/Qwen3-Embedding-4B
+  local model     : OK
+  metadata rows   : 377
+  FAISS vectors   : 377
+  FAISS dim       : 2560
+
+[preflight]
+  status          : PASS

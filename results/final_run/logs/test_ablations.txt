@@ -1,0 +1,34 @@
+[benchmark]
+  profile       : baseline
+  split         : test
+  GT file       : /root/NewRag/NahidCodes/UI-KB-reproducibility/data/ground_truth/test_60.json
+  GT questions  : 60
+  evaluation @  : [1, 3, 5, 10]
+  device        : cpu
+
+-- BGE-M3+Reranker --
+Loading weights:   0%|          | 0/391 [00:00<?, ?it/s]Loading weights: 100%|██████████| 391/391 [00:00<00:00, 10984.12it/s]
+Loading weights:   0%|          | 0/393 [00:00<?, ?it/s]Loading weights:  96%|█████████▋| 379/393 [00:00<00:00, 3772.11it/s]Loading weights: 100%|██████████| 393/393 [00:00<00:00, 3870.25it/s]
+   MRR=0.9833 Recall@10=0.9833 nDCG@10=0.9813 latency=1739.90 ms/q
+
+-- BGE-M3+Hybrid --
+Loading weights:   0%|          | 0/391 [00:00<?, ?it/s]Loading weights: 100%|██████████| 391/391 [00:00<00:00, 13075.85it/s]
+   MRR=0.9033 Recall@10=1.0000 nDCG@10=0.9287 latency=94.04 ms/q
+
+-- Matina-Sentence-Embedding+BGE-Reranker-v2-m3 --
+Loading weights:   0%|          | 0/391 [00:00<?, ?it/s]Loading weights: 100%|██████████| 391/391 [00:00<00:00, 4003.31it/s]
+/root/NewRag/NahidCodes/UI-KB-reproducibility/benchmarks/benchmark.py:208: FutureWarning: Starting with pandas version 3.0 all arguments of to_excel except for the argument 'excel_writer' will be keyword-only.
+  summary.to_excel(writer, "Summary", index=False); details.to_excel(writer, "Details", index=False)
+/root/NewRag/NahidCodes/UI-KB-reproducibility/benchmarks/benchmark.py:209: FutureWarning: Starting with pandas version 3.0 all arguments of to_excel except for the argument 'excel_writer' will be keyword-only.
+  by_domain.to_excel(writer, "ByDomain", index=False); std.to_excel(writer, "StdDev", index=False)
+/root/NewRag/NahidCodes/UI-KB-reproducibility/benchmarks/benchmark.py:210: FutureWarning: Starting with pandas version 3.0 all arguments of to_excel except for the argument 'excel_writer' will be keyword-only.
+  latency.to_excel(writer, "Latency", index=False); run_cfg_df.to_excel(writer, "RunConfig", index=False)
+/root/NewRag/NahidCodes/UI-KB-reproducibility/benchmarks/benchmark.py:211: FutureWarning: Starting with pandas version 3.0 all arguments of to_excel except for the argument 'excel_writer' will be keyword-only.
+  corpus_df.to_excel(writer, "CorpusStats", index=False)
+   MRR=0.9417 Recall@10=0.9500 nDCG@10=0.9418 latency=1602.59 ms/q
+
+Saved: results/final_run/test_ablations/benchmark_baseline_test_20260912_115731.xlsx
+                                  experiment    MRR  Recall@1  Recall@3  Recall@5  Recall@10  Precision@1  Precision@3  Precision@5  Precision@10  nDCG@1  nDCG@3  nDCG@5  nDCG@10  latency_ms
+                             BGE-M3+Reranker 0.9833    0.9750    0.9750    0.9833     0.9833       0.9833       0.3278       0.2000        0.1000  0.9833  0.9769  0.9813   0.9813   1739.8995
+                               BGE-M3+Hybrid 0.9033    0.8333    0.9667    0.9833     1.0000       0.8333       0.3278       0.2000        0.1017  0.8333  0.9163  0.9228   0.9287     94.0434
+Matina-Sentence-Embedding+BGE-Reranker-v2-m3 0.9417    0.9250    0.9417    0.9500     0.9500       0.9333       0.3167       0.1933        0.0967  0.9333  0.9374  0.9418   0.9418   1602.5852

@@ -1,0 +1,14 @@
+profile,split,group,experiment,MRR,Recall@10,nDCG@10,latency_ms
+baseline,dev,main,BM25,0.7047,0.8511,0.7071,1.29
+baseline,dev,main,multilingual-e5-base,0.8163,0.9178,0.8043,35.9304
+baseline,dev,main,BGE-M3,0.9015,0.9456,0.8777,86.9433
+baseline,dev,main,Qwen3-Embedding-4B,0.9328,0.975,0.9104,1516.9817
+baseline,dev,main,Matina-Sentence-Embedding,0.8472,0.9333,0.8342,96.6486
+baseline,test,main,BM25,0.8066,0.9667,0.8429,1.7674
+baseline,test,main,multilingual-e5-base,0.7431,0.95,0.7963,42.5476
+baseline,test,main,BGE-M3,0.8815,0.9833,0.9077,93.9231
+baseline,test,main,Qwen3-Embedding-4B,0.8908,0.9833,0.9143,1820.5903
+baseline,test,main,Matina-Sentence-Embedding,0.8218,0.95,0.8512,103.5667
+baseline,test,ablations,BGE-M3+Reranker,0.9833,0.9833,0.9813,1739.8995
+baseline,test,ablations,BGE-M3+Hybrid,0.9033,1,0.9287,94.0434
+baseline,test,ablations,Matina-Sentence-Embedding+BGE-Reranker-v2-m3,0.9417,0.95,0.9418,1602.5852

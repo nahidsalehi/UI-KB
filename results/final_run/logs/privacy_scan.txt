@@ -1,0 +1,3 @@
+Detected 2 email/phone-like strings requiring human review:
+email-guide.jsonl:4 [email] username@mehr.ui.ac.ir
+lmsQA.jsonl:83 [email] informatic@dean.ui.ac.ir

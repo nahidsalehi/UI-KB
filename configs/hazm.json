@@ -1,0 +1,8 @@
+{
+  "name": "hazm",
+  "description": "Legacy pre-freeze Hazm ablation. Dense queries/passages use Hazm Normalizer; BM25 uses Hazm Normalizer, Persian-to-Latin digit mapping, and Hazm word_tokenize.",
+  "dense_text_normalization": "hazm",
+  "sparse_tokenizer": "hazm_word",
+  "indices_subdir": "hazm",
+  "paper_scope": "Pre-freeze development ablation only. Matina was integrated later and was not part of the historical Hazm comparison."
+}

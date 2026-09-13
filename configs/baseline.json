@@ -1,0 +1,8 @@
+{
+  "name": "baseline",
+  "description": "Final paper baseline. Dense retrieval uses the frozen model-specific prefixes and no Hazm retrieval-time normalization; BM25 uses light character normalization plus whitespace tokenization.",
+  "dense_text_normalization": "none",
+  "sparse_tokenizer": "light_whitespace",
+  "indices_subdir": "baseline",
+  "paper_scope": "Final Dev-150 and held-out Test-60 experiments."
+}

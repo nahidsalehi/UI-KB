@@ -1,0 +1,87 @@
+{
+  "summary": {
+    "jsonl_files": 11,
+    "chunks": 377,
+    "total_approx_tokens": 59046,
+    "average_chunk_tokens": 156.62,
+    "median_chunk_tokens": 120,
+    "min_chunk_tokens": 14,
+    "max_chunk_tokens": 549
+  },
+  "reader_facing_categories": {
+    "Academic policy and degree regulations": {
+      "chunks": 63,
+      "tokens": 11985
+    },
+    "Student conduct and disciplinary regulations": {
+      "chunks": 135,
+      "tokens": 17482
+    },
+    "Student financial support and loans": {
+      "chunks": 25,
+      "tokens": 6859
+    },
+    "Student transfer and mobility rules": {
+      "chunks": 14,
+      "tokens": 1957
+    },
+    "Learning-management and digital-learning support": {
+      "chunks": 93,
+      "tokens": 16093
+    },
+    "Email and communication support": {
+      "chunks": 29,
+      "tokens": 3030
+    },
+    "Other digital and administrative service guides": {
+      "chunks": 18,
+      "tokens": 1640
+    }
+  },
+  "source_files": {
+    "academic": {
+      "chunks": 63,
+      "tokens": 11985
+    },
+    "accounting-guide": {
+      "chunks": 7,
+      "tokens": 710
+    },
+    "discipline": {
+      "chunks": 135,
+      "tokens": 17482
+    },
+    "email-guide": {
+      "chunks": 10,
+      "tokens": 1144
+    },
+    "emailQA": {
+      "chunks": 15,
+      "tokens": 1522
+    },
+    "enteghali": {
+      "chunks": 14,
+      "tokens": 1957
+    },
+    "lmsQA": {
+      "chunks": 93,
+      "tokens": 16093
+    },
+    "outlook-guide": {
+      "chunks": 4,
+      "tokens": 364
+    },
+    "vaam_students": {
+      "chunks": 25,
+      "tokens": 6859
+    },
+    "vpsrequest-guide": {
+      "chunks": 7,
+      "tokens": 619
+    },
+    "vroom-guide": {
+      "chunks": 4,
+      "tokens": 311
+    }
+  }
+}

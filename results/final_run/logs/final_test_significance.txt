@@ -1,0 +1,7 @@
+                                                              comparison  n  mean_delta    raw_p   holm_p  ci95_low  ci95_high
+                                             Qwen3-Embedding-4B - BGE-M3 60    0.006594 0.632952 0.998637 -0.046562   0.060900
+                                                BGE-M3+Reranker - BGE-M3 60    0.073580 0.004482 0.018019  0.033500   0.118618
+Matina-Sentence-Embedding+BGE-Reranker-v2-m3 - Matina-Sentence-Embedding 60    0.090636 0.004018 0.018019  0.037997   0.149362
+                                                  BGE-M3+Hybrid - BGE-M3 60    0.020994 0.499319 0.998637 -0.023737   0.067248
+                                    BGE-M3+Reranker - Qwen3-Embedding-4B 60    0.066985 0.003604 0.018019  0.030756   0.109794
+Saved: results/final_run/final_test_significance.csv

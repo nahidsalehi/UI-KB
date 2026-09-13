@@ -1,0 +1,204 @@
+<!DOCTYPE html>
+<html lang="fa" dir="rtl">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>سامانه هوشمند قوانین دانشگاه</title>
+<link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.rtl.min.css" rel="stylesheet">
+<link href="https://fonts.googleapis.com/css2?family=Vazirmatn:wght@300;400;500;600;700;800&display=swap" rel="stylesheet">
+<style>
+:root{--navy:#0b1628;--navy-mid:#122040;--blue:#1a4fff;--blue-light:#3b6fff;--accent:#00c6ff;--accent2:#ff6b35;--surface:#111c35;--surface2:#172240;--border:rgba(255,255,255,0.07);--text:#e8edf8;--text-dim:#7a8fbb;--success:#00d68f;--warning:#ffaa00;--danger:#ff4d4d;--radius:16px;}
+*,*::before,*::after{box-sizing:border-box;margin:0;padding:0;}
+body{background:var(--navy);font-family:'Vazirmatn',Tahoma,sans-serif;color:var(--text);min-height:100vh;}
+.glow-blob{position:fixed;border-radius:50%;filter:blur(120px);pointer-events:none;z-index:0;opacity:.18;}
+.glow-blob.b1{width:600px;height:600px;background:var(--blue);top:-200px;left:-150px;animation:drift 14s ease-in-out infinite alternate;}
+.glow-blob.b2{width:400px;height:400px;background:var(--accent);bottom:-100px;right:-100px;animation:drift 18s ease-in-out infinite alternate-reverse;}
+@keyframes drift{from{transform:translate(0,0);}to{transform:translate(40px,30px);}}
+.page-wrap{position:relative;z-index:1;max-width:1100px;margin:0 auto;padding:48px 24px 80px;}
+.site-header{text-align:center;margin-bottom:40px;}
+.logo-ring{display:inline-flex;align-items:center;justify-content:center;width:72px;height:72px;border-radius:50%;background:linear-gradient(135deg,var(--blue),var(--accent));margin-bottom:16px;box-shadow:0 0 40px rgba(26,79,255,.4);animation:pulse-ring 3s ease-in-out infinite;}
+@keyframes pulse-ring{0%,100%{box-shadow:0 0 40px rgba(26,79,255,.4);}50%{box-shadow:0 0 70px rgba(0,198,255,.5);}}
+.logo-ring svg{width:32px;height:32px;fill:white;}
+.site-header h1{font-size:clamp(20px,4vw,30px);font-weight:800;background:linear-gradient(90deg,var(--accent),#fff,var(--blue-light));-webkit-background-clip:text;-webkit-text-fill-color:transparent;background-clip:text;margin-bottom:8px;}
+.pipeline-chips{display:flex;flex-wrap:wrap;justify-content:center;gap:8px;margin-top:12px;}
+.chip{display:inline-flex;align-items:center;gap:5px;padding:4px 12px;border-radius:999px;font-size:11.5px;font-weight:600;border:1px solid;}
+.chip.model{background:rgba(26,79,255,.12);border-color:rgba(26,79,255,.35);color:#7fb3ff;}
+.chip.on{background:rgba(0,214,143,.10);border-color:rgba(0,214,143,.3);color:var(--success);}
+.chip.off{background:rgba(255,77,77,.10);border-color:rgba(255,77,77,.3);color:var(--danger);}
+.glass-card{background:rgba(17,28,53,.85);border:1px solid var(--border);border-radius:24px;padding:36px;backdrop-filter:blur(12px);box-shadow:0 20px 60px rgba(0,0,0,.4);}
+.search-label{font-size:13px;font-weight:600;text-transform:uppercase;letter-spacing:1.5px;color:var(--text-dim);margin-bottom:10px;display:flex;align-items:center;gap:8px;}
+.search-label::before{content:'';display:inline-block;width:6px;height:6px;background:var(--accent);border-radius:50%;}
+textarea.search-input{width:100%;background:rgba(255,255,255,.04);border:1.5px solid rgba(255,255,255,.1);border-radius:var(--radius);padding:18px 20px;color:var(--text);font-family:inherit;font-size:16px;line-height:1.7;resize:none;outline:none;transition:border-color .25s,box-shadow .25s;}
+textarea.search-input:focus{border-color:var(--blue-light);box-shadow:0 0 0 4px rgba(26,79,255,.15);}
+.btn-search{display:flex;align-items:center;justify-content:center;gap:10px;width:100%;padding:16px 24px;border:none;border-radius:var(--radius);background:linear-gradient(135deg,var(--blue),var(--blue-light));color:white;font-family:inherit;font-size:16px;font-weight:700;cursor:pointer;transition:transform .2s,box-shadow .2s;box-shadow:0 8px 28px rgba(26,79,255,.4);margin-top:16px;}
+.btn-search:hover{transform:translateY(-2px);box-shadow:0 12px 36px rgba(26,79,255,.55);}
+.btn-search:disabled{opacity:.7;cursor:wait;}
+.timer-box{display:flex;justify-content:center;margin-top:12px;}
+.waiting-timer,.final-timer{background:rgba(0,198,255,.08);border:1px solid rgba(0,198,255,.2);border-radius:40px;padding:8px 18px;font-size:14px;font-weight:500;display:inline-flex;align-items:center;gap:8px;color:var(--accent);}
+.final-timer{background:rgba(0,214,143,.1);border-color:rgba(0,214,143,.3);color:var(--success);}
+.section-divider{display:flex;align-items:center;gap:16px;margin:40px 0 28px;}
+.section-divider::before,.section-divider::after{content:'';flex:1;height:1px;background:var(--border);}
+.section-divider span{font-size:12px;font-weight:600;letter-spacing:2px;text-transform:uppercase;color:var(--text-dim);}
+.meta-bar{display:flex;flex-wrap:wrap;align-items:center;gap:10px;margin-bottom:20px;}
+.answer-card{position:relative;background:linear-gradient(135deg,rgba(26,79,255,.08),rgba(0,198,255,.05));border:1px solid rgba(26,79,255,.25);border-right:5px solid var(--blue-light);border-radius:var(--radius);padding:28px 32px;font-size:16.5px;line-height:2.1;white-space:pre-line;}
+.result-card{background:var(--surface2);border:1px solid var(--border);border-radius:var(--radius);padding:20px 22px;margin-bottom:14px;animation:fade-up .4s ease both;}
+@keyframes fade-up{from{opacity:0;transform:translateY(10px);}to{opacity:1;transform:translateY(0);}}
+.result-meta{display:flex;flex-wrap:wrap;align-items:center;gap:7px;margin-bottom:12px;}
+.tag{display:inline-flex;align-items:center;gap:4px;padding:3px 10px;border-radius:6px;font-size:11.5px;font-weight:600;}
+.tag.domain-academic{background:rgba(0,214,143,.12);color:var(--success);}
+.tag.domain-discipline{background:rgba(255,107,53,.12);color:var(--accent2);}
+.tag.article{background:rgba(255,255,255,.06);color:var(--text-dim);}
+.score-pill{display:inline-flex;align-items:center;gap:5px;padding:3px 10px;border-radius:6px;font-size:11px;font-weight:700;}
+.score-pill.dense{background:rgba(26,79,255,.12);color:#7fb3ff;}
+.score-pill.bm25{background:rgba(255,107,53,.12);color:var(--accent2);}
+.score-pill.rerank{background:rgba(255,170,0,.12);color:#ffc94d;}
+.result-text{font-size:14.5px;line-height:1.9;color:var(--text);}
+.empty-state{text-align:center;padding:60px 20px;color:var(--text-dim);}
+</style>
+</head>
+<body>
+<div class="glow-blob b1"></div>
+<div class="glow-blob b2"></div>
+<div class="page-wrap">
+
+  <header class="site-header">
+    <div class="logo-ring">
+      <svg viewBox="0 0 24 24"><path d="M12 2C6.48 2 2 6.48 2 12s4.48 10 10 10 10-4.48 10-10S17.52 2 12 2zm1 14H11V8h2v8z"/></svg>
+    </div>
+    <h1>سامانه هوشمند قوانین دانشگاه</h1>
+    {% if pipeline_info %}
+    <div class="pipeline-chips">
+      <span class="chip model">🧠 {{ pipeline_info.embed_model }}</span>
+      <span class="chip {{ 'on' if pipeline_info.use_hybrid else 'off' }}">
+        {{ '✔ BM25 Hybrid' if pipeline_info.use_hybrid else '✖ BM25 Hybrid' }}
+      </span>
+      <span class="chip {{ 'on' if pipeline_info.use_reranker else 'off' }}">
+        {{ '✔ Reranker' if pipeline_info.use_reranker else '✖ Reranker' }}
+      </span>
+      {% if pipeline_info.llm_model %}
+      <span class="chip model">💬 {{ pipeline_info.llm_model }}</span>
+      {% endif %}
+    </div>
+    {% endif %}
+  </header>
+
+  <div class="glass-card">
+    <form id="search-form" method="post" action="/ask">
+      <div class="search-label">سوال خود را بپرسید</div>
+      <textarea name="question" class="search-input" rows="4"
+        placeholder="مثلاً: حداقل واحد کارشناسی ارشد در هر نیمسال چقدر است؟"
+        required>{{ question if question else '' }}</textarea>
+      <button type="submit" class="btn-search" id="submit-btn">
+        <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5"><circle cx="11" cy="11" r="8"/><path d="M21 21l-4.35-4.35"/></svg>
+        جستجو و تحلیل
+      </button>
+    </form>
+
+    <div class="timer-box" id="timer-box"></div>
+
+    <div id="results-area">
+      {% if answer %}
+      <div class="section-divider"><span>نتایج تحلیل</span></div>
+
+      <div class="meta-bar">
+        <span class="chip model">{{ pipeline_info.embed_model }}</span>
+        {% if pipeline_info.use_hybrid %}<span class="chip on">BM25 Hybrid</span>{% endif %}
+        {% if pipeline_info.use_reranker %}<span class="chip on">Reranker</span>{% endif %}
+        <span class="chip {{ 'on' if domain=='academic' else 'off' }}">
+          {{ 'آیین‌نامه آموزشی' if domain=='academic' else 'شیوه‌نامه انضباطی' }}
+        </span>
+        {% if elapsed %}<span class="chip model">⏱ {{ elapsed }} ث</span>{% endif %}
+      </div>
+
+      <div class="answer-card">{{ answer }}</div>
+
+      <div class="section-divider"><span>{{ results|length }} سند بازیابی‌شده</span></div>
+
+      {% for r in results %}
+      <div class="result-card">
+        <div class="result-meta">
+          <span class="tag {{ 'domain-academic' if r.domain=='academic' else 'domain-discipline' }}">
+            {{ 'آیین‌نامه آموزشی' if r.domain=='academic' else 'شیوه‌نامه انضباطی' }}
+          </span>
+          {% if r.article %}<span class="tag article">ماده {{ r.article }}</span>{% endif %}
+          {% if r.degree_level %}<span class="tag article">{{ r.degree_level }}</span>{% endif %}
+          {% if r.term %}<span class="tag article">تعریف: {{ r.term }}</span>{% endif %}
+
+          {% if r.retrieval_type == 'bm25' %}
+            <span class="score-pill bm25">BM25 {{ '%.3f'|format(r.retrieval_score) }}</span>
+          {% else %}
+            <span class="score-pill dense">FAISS {{ '%.4f'|format(r.retrieval_score) }}</span>
+          {% endif %}
+          {% if r.rerank_score is defined and r.rerank_score is not none %}
+            <span class="score-pill rerank">Rerank {{ '%.3f'|format(r.rerank_score) }}</span>
+          {% endif %}
+        </div>
+        <div class="result-text">{{ r.text }}</div>
+      </div>
+      {% endfor %}
+
+      {% else %}
+      <div class="empty-state"><p>سوال خود را وارد کنید تا پاسخ هوشمند دریافت کنید.</p></div>
+      {% endif %}
+    </div>
+  </div>
+</div>
+
+<script>
+(function(){
+  const form      = document.getElementById('search-form');
+  const submitBtn = document.getElementById('submit-btn');
+  const timerBox  = document.getElementById('timer-box');
+  let timer = null, t0 = null;
+
+  function startTimer(){
+    timerBox.innerHTML = '<div class="waiting-timer"><span id="ts">0.00</span> ثانیه در انتظار…</div>';
+    t0 = performance.now();
+    timer = setInterval(()=>{
+      document.getElementById('ts').textContent = ((performance.now()-t0)/1000).toFixed(2);
+    }, 100);
+  }
+
+  function stopTimer(){
+    clearInterval(timer);
+    const elapsed = ((performance.now()-t0)/1000).toFixed(2);
+    timerBox.innerHTML = `<div class="final-timer">✔ ${elapsed} ثانیه (زمان کل)</div>`;
+  }
+
+  form.addEventListener('submit', async e => {
+    e.preventDefault();
+    const question = form.querySelector('textarea').value.trim();
+    if (!question) return;
+
+    const origHtml = submitBtn.innerHTML;
+    submitBtn.disabled = true;
+    submitBtn.innerHTML = '<svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" style="animation:spin .8s linear infinite"><path d="M21 12a9 9 0 11-2.636-6.364"/></svg> در حال تحلیل...';
+    startTimer();
+
+    try {
+      const fd   = new FormData(form);
+      const resp = await fetch('/ask', {method:'POST', body:fd});
+      if (!resp.ok) throw new Error('خطای ' + resp.status);
+      const html = await resp.text();
+      stopTimer();
+
+      const doc  = new DOMParser().parseFromString(html, 'text/html');
+      const newA = doc.getElementById('results-area');
+      if (newA) document.getElementById('results-area').replaceWith(newA.cloneNode(true));
+    } catch(err){
+      stopTimer();
+      document.getElementById('results-area').innerHTML =
+        `<div class="empty-state"><p style="color:#ff8080">خطا: ${err.message}</p></div>`;
+    } finally {
+      submitBtn.disabled = false;
+      submitBtn.innerHTML = origHtml;
+    }
+  });
+
+  const s = document.createElement('style');
+  s.textContent = '@keyframes spin{to{transform:rotate(360deg);}}';
+  document.head.appendChild(s);
+})();
+</script>
+</body>
+</html>

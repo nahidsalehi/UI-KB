@@ -1,0 +1,14 @@
+experiment,MRR,Recall@10,nDCG@10
+BM25,0.7126,0.8192,0.7001
+multilingual-e5-base,0.8019,0.9231,0.7912
+multilingual-e5-base+Reranker,0.9118,0.9231,0.8764
+multilingual-e5-base+Hybrid,0.8178,0.8955,0.7936
+multilingual-e5-base+Hybrid+Reranker,0.9301,0.8955,0.8725
+BGE-M3,0.89,0.9436,0.8617
+BGE-M3+Reranker,0.9386,0.9436,0.9017
+BGE-M3+Hybrid,0.8518,0.9179,0.8279
+BGE-M3+Hybrid+Reranker,0.9378,0.9179,0.8894
+Qwen3-Embedding-4B,0.9314,0.9635,0.9028
+Qwen3-Embedding-4B+Reranker,0.9413,0.9635,0.9158
+Qwen3-Embedding-4B+Hybrid,0.8612,0.9256,0.8371
+Qwen3-Embedding-4B+Hybrid+Reranker,0.9378,0.9256,0.8925

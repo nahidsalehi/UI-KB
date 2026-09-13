@@ -1,0 +1,42 @@
+[preflight]
+  profile         : baseline
+  indices         : /root/NewRag/NahidCodes/UI-KB-reproducibility/indices/baseline
+  corpus chunks   : 377
+  GT questions    : 60
+  GT SHA256       : a5c5d38ef2b1b4418ec95ad58a2f00271c72a06c0e58e60a67b566f313cfd290
+  missing GT IDs  : 0
+
+[model] e5
+  label           : multilingual-e5-base
+  model path      : /root/models/e5-model
+  local model     : OK
+  metadata rows   : 377
+  FAISS vectors   : 377
+  FAISS dim       : 768
+
+[model] bge_m3
+  label           : BGE-M3
+  model path      : /root/models/bge-m3
+  local model     : OK
+  metadata rows   : 377
+  FAISS vectors   : 377
+  FAISS dim       : 1024
+
+[model] qwen3
+  label           : Qwen3-Embedding-4B
+  model path      : /root/models/Qwen3-Embedding-4B
+  local model     : OK
+  metadata rows   : 377
+  FAISS vectors   : 377
+  FAISS dim       : 2560
+
+[model] matina
+  label           : Matina-Sentence-Embedding
+  model path      : /root/models/matina-sentence-embedding
+  local model     : OK
+  metadata rows   : 377
+  FAISS vectors   : 377
+  FAISS dim       : 1024
+
+[preflight]
+  status          : PASS
