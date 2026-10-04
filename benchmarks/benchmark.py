@@ -205,10 +205,13 @@ def main():
     ts = datetime.now().strftime("%Y%m%d_%H%M%S")
     out = out_dir / f"benchmark_{config.PROFILE_NAME}_{args.split}_{ts}.xlsx"
     with pd.ExcelWriter(out, engine="openpyxl") as writer:
-        summary.to_excel(writer, "Summary", index=False); details.to_excel(writer, "Details", index=False)
-        by_domain.to_excel(writer, "ByDomain", index=False); std.to_excel(writer, "StdDev", index=False)
-        latency.to_excel(writer, "Latency", index=False); run_cfg_df.to_excel(writer, "RunConfig", index=False)
-        corpus_df.to_excel(writer, "CorpusStats", index=False)
+        summary.to_excel(writer, sheet_name="Summary", index=False)
+        details.to_excel(writer, sheet_name="Details", index=False)
+        by_domain.to_excel(writer, sheet_name="ByDomain", index=False)
+        std.to_excel(writer, sheet_name="StdDev", index=False)
+        latency.to_excel(writer, sheet_name="Latency", index=False)
+        run_cfg_df.to_excel(writer, sheet_name="RunConfig", index=False)
+        corpus_df.to_excel(writer, sheet_name="CorpusStats", index=False)
     print(f"\nSaved: {out}")
     print(summary.to_string(index=False))
 
