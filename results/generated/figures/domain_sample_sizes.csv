@@ -1,0 +1,9 @@
+experiment,academic,disciplinary,transfer,loans,email,LMS
+BM25,14,16,5,10,5,10
+multilingual-e5-base,14,16,5,10,5,10
+BGE-M3,14,16,5,10,5,10
+Qwen3-Embedding-4B,14,16,5,10,5,10
+Matina-Sentence-Embedding,14,16,5,10,5,10
+BGE-M3+Reranker,14,16,5,10,5,10
+BGE-M3+Hybrid,14,16,5,10,5,10
+Matina-Sentence-Embedding+BGE-Reranker-v2-m3,14,16,5,10,5,10

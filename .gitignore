@@ -11,8 +11,20 @@ models/
 *.pem
 *.key
 
-# Generated benchmark outputs (frozen reported workbooks in results/raw_workbooks are tracked)
-results/generated/
+# Generated benchmark outputs; retain only the verified paper figures and data.
+results/generated/*
+!results/generated/figures/
+results/generated/figures/*
+!results/generated/figures/ndcg10_domain_heatmap.png
+!results/generated/figures/ndcg10_domain_heatmap.pdf
+!results/generated/figures/recall_at_k.png
+!results/generated/figures/recall_at_k.pdf
+!results/generated/figures/ndcg10_per_query_boxplot.png
+!results/generated/figures/ndcg10_per_query_boxplot.pdf
+!results/generated/figures/domain_ndcg10_matrix.csv
+!results/generated/figures/domain_sample_sizes.csv
+!results/generated/figures/recall_at_k.csv
+!results/generated/figures/per_query_ndcg10.csv
 
 # OS/editor
 .DS_Store

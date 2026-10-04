@@ -40,6 +40,10 @@ Outputs are 300-dpi PNG and vector PDF versions of `ndcg10_domain_heatmap`,
 `domain_sample_sizes.csv`, `recall_at_k.csv`, and `per_query_ndcg10.csv`.
 The boxplot uses actual observations and standard matplotlib box/whisker summaries.
 There is no interpolation, random jitter, or recomputation of retrieval metrics.
+The ten verified Test-60 figure/data files in `generated/figures/` are tracked for
+paper review. Other generated outputs and local matplotlib caches remain ignored.
+Regenerating these figures replaces the tracked files; use a different output directory
+when exploring another compatible workbook.
 
 Lightweight verification without ML dependencies:
 
